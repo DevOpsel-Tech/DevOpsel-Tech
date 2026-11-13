@@ -16,16 +16,16 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 
 ## 💼 Qué encontrarás aquí
 
-- **💻 Devsel · Desarrollo Full Stack:** aplicaciones web y de escritorio, sistemas de gestión y proyectos personales.
-- **⚙️ DevOpsel · Infraestructura y DevOps:** proyectos de infraestructura, servidores, virtualización y herramientas de despliegue.
-- **🛡️ DevSecOpsel · Seguridad:** aprendizaje y exploración de seguridad defensiva, ofensiva y monitorización SOC.
+- **💻 Devsel · Desarrollo Full Stack:** aplicaciones web y de escritorio, sistemas de gestión y proyectos personales en desarrollo.
+- **⚙️ DevOpsel · Infraestructura y DevOps:** proyectos de infraestructura, servidores, virtualización y herramientas de despliegue; área en creación.
+- **🛡️ DevSecOpsel · Seguridad:** área en exploración sobre seguridad defensiva, ofensiva y monitorización SOC.
 
 ---
 
 
 ---
 
-## 💻 Devsel · Desarrollo Full Stack "en desarrollo"
+## 💻 Devsel · Desarrollo Full Stack
 
 Proyectos de aplicaciones web y de escritorio.
 
@@ -48,7 +48,7 @@ Proyectos de aplicaciones web y de escritorio.
 
 ---
 
-## ⚙️ DevOpsel · Infraestructura y DevOps "en creación"
+## ⚙️ DevOpsel · Infraestructura y DevOps
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -58,7 +58,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ---
 
-## 🛡️ DevSecOpsel · Seguridad "en exploración"
+## 🛡️ DevSecOpsel · Seguridad
 
 Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
