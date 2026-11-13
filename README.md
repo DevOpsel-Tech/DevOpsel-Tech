@@ -51,7 +51,21 @@ Actualmente trabajo en el desarrollo de aplicaciones web y sistemas de gestión 
 
 ---
 
-## 📖 Sobre mí
+
+## Descargas - Traductor PDF
+
+| Plataforma | Descarga |
+|------------|----------|
+| Windows x64: instalador (.exe) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe) |
+| Windows x64: portable (.zip) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
+| Android ARM64: instalador (.apk) | [Descargar desde Actions](https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml) |
+| macOS | [Descargar desde Actions](https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml) |
+
+Version de prueba - Windows sin firma digital - macOS sin firma ni notarizacion - Android con firma de depuracion
+
+---
+
+## ?? Sobre mí
 
 Estoy iniciándome en el mundo del desarrollo de software, con muchas ganas de seguir aprendiendo y participar en proyectos reales donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
 
@@ -69,3 +83,4 @@ Estoy interesado en oportunidades dentro del sector tecnológico, especialmente 
 ---
 
 *Desarrollado con ❤️ por José Luis*
+
