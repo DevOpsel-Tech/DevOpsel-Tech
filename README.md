@@ -10,7 +10,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-## 💼 Áreas y 🧰 herramientas
+## 💼 Mi perfil tecnológico
 
 **💻 Devsel:** Full Stack · **⚙️ DevOpsel:** infraestructura · **🛡️ DevSecOpsel:** seguridad · **🧰 Herramientas**
 
