@@ -3,18 +3,6 @@
 🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
 
----------|----------|
-| Windows x64: instalador (.exe) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe) |
-| Windows x64: portátil (.zip) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
-| Windows sin firma digital | |
-| Android ARM64: instalador (.apk) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/android-prueba-0.1.0/TraductorPDF-Android-ARM64-prueba.apk) |
-| Android con firma de depuración | |
-| macOS (Apple silicon) | [Descargar ZIP](https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/macos-prueba-0.1.0/TraductorPDF-macOS-Apple-silicon-prueba.zip) |
-| macOS sin firma ni notarización | |
-
-Para instalar en macOS, extrae el ZIP y abre el archivo DMG. Consulta las [instrucciones y limitaciones](https://github.com/DevOpsel-Tech/Devsel-Traductor#descargas). La instalación aún no se ha validado en cada plataforma.
-
----
 
 ## 🧭 Mis áreas
 
