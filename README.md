@@ -49,7 +49,7 @@ Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y pro
 
 ### 💻 Desarrollo (Dev)
 
-| 📁 Proyecto | 🛠️ Tecnologías / 📝 Descripción | 📥 Descargas / ver |
+| 📁 Proyecto | 🛠️ Tecnologías / 📝 Descripción | 📥 Descargar / 🌐 Ver |
 |----------|---------------------------|-----------------|
 | [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | ├─ 🛠️ TypeScript, Node.js, React, Prisma<br>└─ 📝 Trivia multijugador en tiempo real | — |
 | [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | ├─ 🛠️ Java, Spring Boot, React, Vite<br>└─ 📝 Portal corporativo con panel de administración | — |
