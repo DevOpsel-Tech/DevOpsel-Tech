@@ -4,15 +4,13 @@
 
 🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
-🎯 **Objetivo profesional:** incorporarme a un equipo de desarrollo Full Stack o DevOps, aportando una visión que conecta aplicaciones, sistemas e infraestructura y creciendo hacia DevSecOps.
-
----
-
 ## 📖 Sobre mí
 
-Soy desarrollador Full Stack, con formación en DAW y actualmente cursando ASIR. Combino el desarrollo de aplicaciones con la administración de sistemas e infraestructura para entender el recorrido desde el código hasta el despliegue.
+Desarrollo aplicaciones web y proyectos personales, entre ellos sistemas de gestión, una plataforma multijugador y herramientas de productividad. También trabajo con mi propia infraestructura y sigo aprendiendo sobre sistemas, despliegue y seguridad.
 
-He trabajado en sistemas de gestión, plataformas multijugador y herramientas de productividad, y gestiono infraestructura propia. Me interesa seguir profundizando en seguridad y DevSecOps.
+Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendido y seguir creciendo, con interés en explorar DevSecOps al completar ASIR.
+
+---
 
 ## 💼 Qué encontrarás aquí
 
