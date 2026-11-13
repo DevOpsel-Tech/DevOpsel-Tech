@@ -28,7 +28,13 @@
 
 | 🛠️ Tecnologías y herramientas | 📁 Área o proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |-------------------------------|----------------------------------|-------------------------|
-| 🖥️ **Sistemas:** Ubuntu Server 24.04, Windows Server<br>📦 **Contenedores:** Docker, Portainer<br>🖧 **Infraestructura:** Dell PowerEdge T140/T340/T440/T640, iDRAC 8/9, Proxmox VE, Proxmox Backup Server<br>🔧 **Herramientas:** VS Code, Cursor, Eclipse, IntelliJ IDEA, Git, GitHub, Gitea<br>🗄️ **BBDD:** phpMyAdmin, pgAdmin 4, MySQL Workbench, PostgreSQL | **Infraestructura y herramientas**<br>└─ 📝 Tecnologías utilizadas en sistemas y administración | — |
+| 🖥️ Ubuntu Server 24.04, Windows Server | **Sistemas**<br>└─ 📝 Administración de servidores | — |
+| 📦 Docker, Portainer | **Contenedores**<br>└─ 📝 Gestión de contenedores | — |
+| 🖧 Dell PowerEdge T140/T340/T440/T640, iDRAC 8/9 | **Servidores**<br>└─ 📝 Hardware y gestión remota | — |
+| 💾 Proxmox VE, Proxmox Backup Server | **Virtualización y copias**<br>└─ 📝 Entornos virtuales y respaldo | — |
+| 🔧 VS Code, Cursor, Eclipse, IntelliJ IDEA | **Entornos de desarrollo**<br>└─ 📝 Editores e IDE | — |
+| 🔀 Git, GitHub, Gitea | **Control de versiones**<br>└─ 📝 Herramientas de código y repositorios | — |
+| 🗄️ phpMyAdmin, pgAdmin 4, MySQL Workbench, PostgreSQL | **Bases de datos**<br>└─ 📝 Administración de bases de datos | — |
 | ⚙️ **Automatización:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)<br>📦 **Orquestación:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
 
 ### 🛡️ DevSecOpsel · Seguridad "en exploración"
