@@ -28,7 +28,7 @@
 | iDRAC 8/9, Proxmox VE, Proxmox Backup Server | PostgreSQL |
 
 
-### 🛡️ DevSecOpsel · Seguridad
+### 🛡️ DevSecOpsel · Seguridad "en exploración"
 
 | Área | Tecnologías y líneas de trabajo |
 |------|--------------------------------|
