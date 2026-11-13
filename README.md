@@ -49,19 +49,19 @@ Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y pro
 
 ### 💻 Desarrollo (Dev)
 
-| Proyecto | Tecnología | Descripción | Descarga / ver |
-|----------|-----------|-------------|----------------|
-| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | TypeScript, Node.js, React, Prisma | Juego de trivia multijugador en tiempo real | — |
-| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | Java, Spring Boot, React, Vite | Portal web corporativo con panel admin | — |
-| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | PHP, Laravel | ERP para gestión empresarial | — |
-| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | Java, Spring Boot, Maven | ERP en Java con Spring Boot | — |
-| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Tauri 2, Rust, Vite, PDF.js | Lector de PDF con traducción mediante IA | [Windows x64: instalador (.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows x64: portátil (.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
-| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | TypeScript, Node.js, React | Plataforma de oposiciones | — |
-| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | Java, Spring Boot, React | Gestión de comunidades de propietarios | — |
-| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | PHP, Tailwind CSS | Web para clínicas | — |
-| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | PHP, Tailwind CSS | Web para centros de estética | — |
-| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | PHP, Tailwind, Vite | Web para gimnasios | — |
-| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | PHP | Plataforma NintaiDigital | — |
+| Proyecto | Descripción | Descargas / ver |
+|----------|-------------|-----------------|
+| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | Trivia multijugador en tiempo real | — |
+| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | Portal corporativo con panel de administración | — |
+| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | Gestión empresarial | — |
+| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | ERP desarrollado en Java | — |
+| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Lector y traductor de PDF con IA | [Windows&#160;x64:&#160;instalador&#160;(.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows&#160;x64:&#160;portátil&#160;(.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
+| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | Plataforma de oposiciones | — |
+| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | Gestión de comunidades | — |
+| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | Web para clínicas | — |
+| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | Web para centros de estética | — |
+| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | Web para gimnasios | — |
+| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | Plataforma NintaiDigital | — |
 
 ### ⚙️ DevOps / Infraestructura
 
