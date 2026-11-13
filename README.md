@@ -17,6 +17,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 - **💻 Devsel · Desarrollo Full Stack:** aplicaciones web y de escritorio, sistemas de gestión y proyectos personales en desarrollo.
 - **⚙️ DevOpsel · Infraestructura y DevOps:** proyectos de infraestructura, servidores, virtualización y herramientas de despliegue; área en creación.
 - **🛡️ DevSecOpsel · Seguridad:** área en exploración sobre seguridad defensiva, ofensiva y monitorización SOC.
+- **🧰 Sistemas y herramientas:** al final encontrarás las tecnologías con las que he trabajado y las que estoy explorando.
 
 ---
 
