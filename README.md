@@ -1,4 +1,4 @@
-﻿# Hola, soy José Luis, aunque me conocen como $\color{#e25822}{\textsf{selu}}$ 👋
+﻿# Hola, soy José Luis, aunque me conocen como selu 👋
 
 **💻 Desarrollo Full Stack · ⚙️ DevOps · 🛡️ Seguridad en exploración**
 
@@ -24,7 +24,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-## 💻 Dev$\color{#e25822}{\textsf{sel}}$ · Desarrollo Full Stack
+## 💻 Devsel · Desarrollo Full Stack
 
 Proyectos de aplicaciones web y de escritorio.
 
@@ -42,7 +42,7 @@ Proyectos de aplicaciones web y de escritorio.
 
 ---
 
-## ⚙️ DevOp$\color{#e25822}{\textsf{sel}}$ · Infraestructura y DevOps
+## ⚙️ DevOpsel · Infraestructura y DevOps
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -52,7 +52,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ---
 
-## 🛡️ DevSecOp$\color{#e25822}{\textsf{sel}}$ · Seguridad
+## 🛡️ DevSecOpsel · Seguridad
 
 Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
