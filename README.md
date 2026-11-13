@@ -1,16 +1,18 @@
 ﻿# Hola, soy José Luis (selu) 👋
 
-**Títulos:** DAW (Desarrollo de Aplicaciones Web) | ASIR (Administración de Sistemas Informáticos en Red)
+**💻 Desarrollo Full Stack · ⚙️ DevOps · 🛡️ Seguridad en exploración**
 
-**Objetivo:** Buscar oportunidades en desarrollo web, DevOps o administración de sistemas donde aportar mi formación dual en DAW y ASIR
+🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
+
+🎯 **Objetivo profesional:** incorporarme a un equipo de desarrollo Full Stack o DevOps, aportando una visión que conecta aplicaciones, sistemas e infraestructura y creciendo hacia DevSecOps.
 
 ---
 
 ## 📖 Sobre mí
 
-Soy desarrollador Full Stack con formación dual en DAW y ASIR. Combino el desarrollo de aplicaciones con la administración de sistemas e infraestructura para entender el recorrido desde el código hasta el despliegue.
+Soy desarrollador Full Stack, con formación en DAW y actualmente cursando ASIR. Combino el desarrollo de aplicaciones con la administración de sistemas e infraestructura para entender el recorrido desde el código hasta el despliegue.
 
-He trabajado en sistemas de gestión, plataformas multijugador y herramientas de productividad, y gestiono infraestructura propia. Busco oportunidades como desarrollador Full Stack o en DevOps, y me interesa seguir creciendo hacia DevSecOps al finalizar ASIR.
+He trabajado en sistemas de gestión, plataformas multijugador y herramientas de productividad, y gestiono infraestructura propia. Me interesa seguir profundizando en seguridad y DevSecOps.
 
 ## 💼 Qué encontrarás aquí
 
