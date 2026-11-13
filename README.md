@@ -51,17 +51,17 @@ Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y pro
 
 | 📁 Proyecto | 🛠️ Tecnologías / 📝 Descripción | 📥 Descargas / ver |
 |----------|---------------------------|-----------------|
-| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | ├─ TypeScript, Node.js, React, Prisma<br>└─ Trivia multijugador en tiempo real | — |
-| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | ├─ Java, Spring Boot, React, Vite<br>└─ Portal corporativo con panel de administración | — |
-| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | ├─ PHP, Laravel<br>└─ Gestión empresarial | — |
-| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | ├─ Java, Spring Boot, Maven<br>└─ ERP desarrollado en Java | — |
-| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | ├─ Tauri 2, Rust, Vite, PDF.js<br>└─ Lector y traductor de PDF con IA | [Windows&#160;x64:&#160;instalador&#160;(.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows&#160;x64:&#160;portátil&#160;(.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
-| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | ├─ TypeScript, Node.js, React<br>└─ Plataforma de oposiciones | — |
-| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | ├─ Java, Spring Boot, React<br>└─ Gestión de comunidades | — |
-| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | ├─ PHP, Tailwind CSS<br>└─ Web para clínicas | — |
-| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | ├─ PHP, Tailwind CSS<br>└─ Web para centros de estética | — |
-| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | ├─ PHP, Tailwind, Vite<br>└─ Web para gimnasios | — |
-| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | ├─ PHP<br>└─ Plataforma NintaiDigital | — |
+| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | ├─ 🛠️ TypeScript, Node.js, React, Prisma<br>└─ 📝 Trivia multijugador en tiempo real | — |
+| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | ├─ 🛠️ Java, Spring Boot, React, Vite<br>└─ 📝 Portal corporativo con panel de administración | — |
+| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | ├─ 🛠️ PHP, Laravel<br>└─ 📝 Gestión empresarial | — |
+| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | ├─ 🛠️ Java, Spring Boot, Maven<br>└─ 📝 ERP desarrollado en Java | — |
+| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | ├─ 🛠️ Tauri 2, Rust, Vite, PDF.js<br>└─ 📝 Lector y traductor de PDF con IA | [Windows&#160;x64:&#160;instalador&#160;(.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows&#160;x64:&#160;portátil&#160;(.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
+| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | ├─ 🛠️ TypeScript, Node.js, React<br>└─ 📝 Plataforma de oposiciones | — |
+| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | ├─ 🛠️ Java, Spring Boot, React<br>└─ 📝 Gestión de comunidades | — |
+| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | ├─ 🛠️ PHP, Tailwind CSS<br>└─ 📝 Web para clínicas | — |
+| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | ├─ 🛠️ PHP, Tailwind CSS<br>└─ 📝 Web para centros de estética | — |
+| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | ├─ 🛠️ PHP, Tailwind, Vite<br>└─ 📝 Web para gimnasios | — |
+| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | ├─ 🛠️ PHP<br>└─ 📝 Plataforma NintaiDigital | — |
 
 ### ⚙️ DevOps / Infraestructura
 
