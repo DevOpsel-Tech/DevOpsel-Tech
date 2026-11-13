@@ -5,14 +5,19 @@
 
 ## Descargas - Traductor PDF
 
+**Versión de prueba**
+
 | Plataforma | Descarga |
 |------------|----------|
 | Windows x64: instalador (.exe) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe) |
-| Windows x64: portable (.zip) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
-| Android ARM64: instalador (.apk) | [Descargar desde Actions](https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml) |
-| macOS | [Descargar desde Actions](https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml) |
+| Windows x64: portátil (.zip) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
+| Windows sin firma digital | |
+| Android ARM64: instalador (.apk) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/android-prueba-0.1.0/TraductorPDF-Android-ARM64-prueba.apk) |
+| Android con firma de depuración | |
+| macOS (Apple silicon) | [Descargar desde Actions](https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml) |
+| macOS sin firma ni notarización | |
 
-Version de prueba - Windows sin firma digital - macOS sin firma ni notarizacion - Android con firma de depuracion
+Para descargar macOS, inicia sesión en GitHub, abre una ejecución exitosa de la rama `main` y descarga el artefacto `traductor-macos-latest`. Extrae el ZIP y abre el DMG. Los artefactos de Actions caducan. Consulta las [instrucciones y limitaciones](https://github.com/DevOpsel-Tech/Devsel-Traductor#descargas). La instalación aún no se ha validado en cada plataforma.
 
 ---
 
@@ -31,7 +36,7 @@ Proyectos de aplicaciones web y de escritorio.
 <tbody>
 <tr><td>🖥️ <strong>Front:</strong> React, TypeScript, Vite<br>⚙️ <strong>Back:</strong> Node.js, Express, TypeScript<br>🗄️ <strong>BBDD:</strong> PostgreSQL<br>🔧 <strong>ORM:</strong> Prisma</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Trivia">Devsel-Trivia</a><br>└─ 📝 Juego de preguntas con partidas individuales y multijugador en tiempo real</td><td>Próximamente</td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Thymeleaf<br>⚙️ <strong>Back:</strong> Java, Spring Boot, Maven<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-ERP-Java">Devsel-ERP-Java</a><br>└─ 📝 Gestión de clientes, productos, pedidos y usuarios</td><td>Próximamente</td></tr>
-<tr><td>🖥️ <strong>Front:</strong> Vite, PDF.js<br>⚙️ <strong>Back:</strong> Tauri 2, Rust<br>🗄️ <strong>BBDD:</strong> SQLite</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor">Devsel-Traductor</a><br>└─ 📝 Lector y traductor de PDF con IA</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe">Windows&#160;x64:&#160;instalador&#160;(.exe)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip">Windows&#160;x64:&#160;portátil&#160;(.zip)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/android-prueba-0.1.0/TraductorPDF-Android-ARM64-prueba.apk">Android&#160;ARM64:&#160;instalador&#160;(.apk)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml">macOS:&#160;descargar&#160;desde&#160;Actions</a><br><small>Versión de prueba · Windows sin firma digital · macOS sin firma ni notarización · Android con firma de depuración</small></td></tr>
+<tr><td>🖥️ <strong>Front:</strong> Vite, PDF.js<br>⚙️ <strong>Back:</strong> Tauri 2, Rust<br>🗄️ <strong>BBDD:</strong> SQLite</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor">Devsel-Traductor</a><br>└─ 📝 Lector y traductor de PDF con IA</td><td><strong>Versión de prueba</strong><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe">Windows&#160;x64:&#160;instalador&#160;(.exe)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip">Windows&#160;x64:&#160;portátil&#160;(.zip)</a><br><small>Windows sin firma digital</small><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/android-prueba-0.1.0/TraductorPDF-Android-ARM64-prueba.apk">Android&#160;ARM64:&#160;instalador&#160;(.apk)</a><br><small>Android con firma de depuración</small><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml">macOS:&#160;descargar&#160;desde&#160;Actions</a><br><small>macOS sin firma ni notarización</small></td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Tailwind CSS<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-clinica">Devsel-web-clinica</a><br>└─ 📝 Web para clínicas</td><td>Próximamente</td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Bootstrap 5<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-estetica">Devsel-web-estetica</a><br>└─ 📝 Web de servicios de estética con galería y formulario de contacto</td><td>Próximamente</td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Tailwind CSS<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-gimnasio">Devsel-web-gimnasio</a><br>└─ 📝 Web de gimnasio con servicios, planes y testimonios</td><td>Próximamente</td></tr>
