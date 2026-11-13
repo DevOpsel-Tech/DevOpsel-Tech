@@ -21,9 +21,6 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-
----
-
 ## 💻 Devsel · Desarrollo Full Stack
 
 Proyectos de aplicaciones web y de escritorio.
@@ -79,7 +76,7 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 | 🔀 Control de versiones | Git, GitHub, Gitea | — |
 | 🗄️ Gestores de bases de datos (SGBD) | MySQL, PostgreSQL | — |
 | 🛠️ Herramientas de administración de BBDD | phpMyAdmin, pgAdmin 4, MySQL Workbench | — |
-| 🛡️ Seguridad | — | Kali Linux, Burp Suite<br>Seguridad de redes y hardening<br>SOC y monitorización, DevSecOps |
+| 🛡️ Seguridad | — | Kali Linux, Burp Suite |
 
 ---
 
