@@ -1,4 +1,4 @@
-﻿# Hola, soy José Luis, aunque me conocen como <img src="https://img.shields.io/badge/selu-2563EB?style=flat-square" alt="selu" height="18"> 👋
+﻿# Hola, soy José Luis, aunque me conocen como $\color{#e25822}{\textsf{selu}}$ 👋
 
 **💻 Desarrollo Full Stack · ⚙️ DevOps · 🛡️ Seguridad en exploración**
 
@@ -24,7 +24,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-## 💻 Dev<img src="https://img.shields.io/badge/sel-2563EB?style=flat-square" alt="sel" height="18"> · Desarrollo Full Stack
+## 💻 Dev$\color{#e25822}{\textsf{sel}}$ · Desarrollo Full Stack
 
 Proyectos de aplicaciones web y de escritorio.
 
@@ -42,7 +42,7 @@ Proyectos de aplicaciones web y de escritorio.
 
 ---
 
-## ⚙️ DevOp<img src="https://img.shields.io/badge/sel-2563EB?style=flat-square" alt="sel" height="18"> · Infraestructura y DevOps
+## ⚙️ DevOp$\color{#e25822}{\textsf{sel}}$ · Infraestructura y DevOps
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -52,7 +52,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ---
 
-## 🛡️ DevSecOp<img src="https://img.shields.io/badge/sel-2563EB?style=flat-square" alt="sel" height="18"> · Seguridad
+## 🛡️ DevSecOp$\color{#e25822}{\textsf{sel}}$ · Seguridad
 
 Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
