@@ -68,7 +68,7 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
 ---
 
-## 🧰 Sistemas y herramientas que utilizo
+## 🧰 Sistemas y herramientas con los que he trabajado
 
 | Categoría | Tecnologías y herramientas | 🔎 En exploración |
 |-----------|----------------------------|-------------------|
@@ -78,8 +78,8 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 | 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server | — |
 | 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA | — |
 | 🔀 Control de versiones | Git, GitHub, Gitea | — |
-| 🗄️ Bases de datos | MySQL, PostgreSQL | — |
-| 🛠️ Administración de bases de datos | phpMyAdmin, pgAdmin 4, MySQL Workbench | — |
+| 🗄️ Gestores de bases de datos (SGBD) | MySQL, PostgreSQL | — |
+| 🛠️ Herramientas de administración de BBDD | phpMyAdmin, pgAdmin 4, MySQL Workbench | — |
 | 🛡️ Seguridad | — | Kali Linux, Burp Suite<br>Seguridad de redes y hardening<br>SOC y monitorización, DevSecOps |
 
 ---
