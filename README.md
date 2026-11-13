@@ -27,8 +27,6 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 
 Proyectos de aplicaciones web y de escritorio.
 
-### 🚀 Proyectos
-
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
 | 🖥️ **Front:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)<br>⚙️ **Back:** ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)<br>🗄️ **BBDD:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia)<br>└─ 📝 Trivia multijugador en tiempo real | Próximamente |
@@ -48,8 +46,6 @@ Proyectos de aplicaciones web y de escritorio.
 ## ⚙️ DevOpsel · Infraestructura y DevOps "en creación"
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
-
-### 🚀 Proyectos
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
