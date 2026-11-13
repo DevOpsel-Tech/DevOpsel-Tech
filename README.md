@@ -20,9 +20,11 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 💻 Devsel · Desarrollo Full Stack
 
-### 💻 Devsel · Desarrollo Full Stack
+Proyectos de aplicaciones web y de escritorio.
+
+### 🚀 Proyectos
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
@@ -38,13 +40,20 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 | 🖥️ **Front:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br>⚙️ **Back:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)<br>🗄️ **BBDD:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio)<br>└─ 📝 Web para gimnasios | Próximamente |
 | 🖥️ **Front:** —<br>⚙️ **Back:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)<br>🗄️ **BBDD:** — | [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital)<br>└─ 📝 Plataforma NintaiDigital | Próximamente |
 
-### ⚙️ DevOpsel · Infraestructura y DevOps
+
+---
+
+## ⚙️ DevOpsel · Infraestructura y DevOps
+
+Proyectos de despliegue, sistemas y administración de infraestructura.
+
+### 🚀 Proyectos
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
 | ⚙️ **Automatización:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)<br>📦 **Orquestación:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
 
-#### 🧰 Sistemas, hardware y herramientas
+### 🧰 Sistemas, hardware y herramientas
 
 | Categoría | Tecnologías y herramientas |
 |-----------|----------------------------|
@@ -56,7 +65,14 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 | 🔀 Control de versiones | Git, GitHub, Gitea |
 | 🗄️ Bases de datos | phpMyAdmin, pgAdmin 4, MySQL Workbench, PostgreSQL |
 
-### 🛡️ DevSecOpsel · Seguridad "en exploración"
+
+---
+
+## 🛡️ DevSecOpsel · Seguridad "en exploración"
+
+Aprendizaje en seguridad defensiva, ofensiva y monitorización.
+
+### 🔎 Áreas de interés
 
 | Área | Tecnologías y líneas de trabajo |
 |------|--------------------------------|
