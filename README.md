@@ -49,19 +49,19 @@ Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y pro
 
 ### 💻 Desarrollo (Dev)
 
-| Proyecto | Tecnología | Descripción |
-|----------|-----------|-------------|
-| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | TypeScript, Node.js, React, Prisma | Juego de trivia multijugador en tiempo real |
-| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | Java, Spring Boot, React, Vite | Portal web corporativo con panel admin |
-| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | PHP, Laravel | ERP para gestión empresarial |
-| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | Java, Spring Boot, Maven | ERP en Java con Spring Boot |
-| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Tauri 2, Rust, Vite, PDF.js | Lector de PDF con traducción mediante IA |
-| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | TypeScript, Node.js, React | Plataforma de oposiciones |
-| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | Java, Spring Boot, React | Gestión de comunidades de propietarios |
-| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | PHP, Tailwind CSS | Web para clínicas |
-| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | PHP, Tailwind CSS | Web para centros de estética |
-| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | PHP, Tailwind, Vite | Web para gimnasios |
-| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | PHP | Plataforma NintaiDigital |
+| Proyecto | Tecnología | Descripción | Descarga / ver |
+|----------|-----------|-------------|----------------|
+| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | TypeScript, Node.js, React, Prisma | Juego de trivia multijugador en tiempo real | — |
+| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | Java, Spring Boot, React, Vite | Portal web corporativo con panel admin | — |
+| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | PHP, Laravel | ERP para gestión empresarial | — |
+| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | Java, Spring Boot, Maven | ERP en Java con Spring Boot | — |
+| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Tauri 2, Rust, Vite, PDF.js | Lector de PDF con traducción mediante IA | [Windows EXE](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe) · [ZIP portable](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
+| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | TypeScript, Node.js, React | Plataforma de oposiciones | — |
+| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | Java, Spring Boot, React | Gestión de comunidades de propietarios | — |
+| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | PHP, Tailwind CSS | Web para clínicas | — |
+| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | PHP, Tailwind CSS | Web para centros de estética | — |
+| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | PHP, Tailwind, Vite | Web para gimnasios | — |
+| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | PHP | Plataforma NintaiDigital | — |
 
 ### ⚙️ DevOps / Infraestructura
 
