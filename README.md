@@ -82,6 +82,5 @@ Busco oportunidades en desarrollo, DevOps o administración de sistemas donde pu
 ## 📧 Contacto
 
 - Email: [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
-- GitHub: [DevOpsel-Tech](https://github.com/DevOpsel-Tech)
 - LinkedIn: [José Luis Molano Navarro](https://www.linkedin.com/in/josé-luis-molano-navarro-580960283)
 
