@@ -6,6 +6,20 @@
 
 ---
 
+## 📖 Sobre mí
+
+Soy desarrollador Full Stack con formación dual en DAW y ASIR. Combino el desarrollo de aplicaciones con la administración de sistemas e infraestructura para entender el recorrido desde el código hasta el despliegue.
+
+He trabajado en sistemas de gestión, plataformas multijugador y herramientas de productividad, y gestiono infraestructura propia. Busco oportunidades en desarrollo, DevOps o administración de sistemas para seguir creciendo profesionalmente.
+
+## 💼 Qué encontrarás aquí
+
+- **💻 Devsel · Desarrollo Full Stack:** aplicaciones web y de escritorio, sistemas de gestión y proyectos personales.
+- **⚙️ DevOpsel · Infraestructura y DevOps:** proyectos de infraestructura, servidores, virtualización y herramientas de despliegue.
+- **🛡️ DevSecOpsel · Seguridad:** aprendizaje y exploración de seguridad defensiva, ofensiva y monitorización SOC.
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 ### 💻 Devsel · Desarrollo Full Stack
@@ -52,29 +66,6 @@
 | ⚙️ DevSecOps | Integración de seguridad en desarrollo e infraestructura, en exploración |
 
 ---
-
-## 💼 Qué desarrollo
-
-Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y proyectos propios. He construido ERPs, paneles de administración, plataformas multijugador y herramientas de productividad.
-
-- Páginas web con funcionalidades personalizadas (PHP, Java, Node.js)
-- Paneles de administración y sistemas de gestión (Spring Boot, React)
-- Aplicaciones de escritorio y web (Java, Swing, Thymeleaf)
-- Integración de bases de datos (MySQL, PostgreSQL, MariaDB)
-- Infraestructura propia (Dell PowerEdge, Proxmox, Docker, Kubernetes)
-
----
-
-
----
-
-## 📖 Sobre mí
-
-Desarrollador full-stack con formación dual en DAW y ASIR. Combino desarrollo web (frontend y backend) con administración de sistemas e infraestructura, lo que me permite entender el ciclo completo de una aplicación: desde el código hasta el despliegue en producción.
-
-He construido ERPs, plataformas multijugador, sistemas de gestión y herramientas de productividad. Gestiono mi propia infraestructura (Dell PowerEdge, Proxmox, Docker, Kubernetes) y tengo interés en DevOps y ciberseguridad.
-
-Busco oportunidades en desarrollo, DevOps o administración de sistemas donde pueda aportar mi visión integral y seguir creciendo profesionalmente.
 
 ## 📧 Contacto
 
