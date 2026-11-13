@@ -12,16 +12,16 @@
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
-| 🖥️ **Front:** React, TypeScript, Vite<br>⚙️ **Back:** Node.js, Express, TypeScript, Prisma<br>🗄️ **BBDD:** PostgreSQL | [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia)<br>└─ 📝 Trivia multijugador en tiempo real | Próximamente |
+| 🖥️ **Front:** React, TypeScript, Vite<br>⚙️ **Back:** Node.js, Express, TypeScript, Prisma<br>🗄️ **BBDD:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia)<br>└─ 📝 Trivia multijugador en tiempo real | Próximamente |
 | 🖥️ **Front:** React, Vite<br>⚙️ **Back:** Java, Spring Boot<br>🗄️ **BBDD:** — | [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel)<br>└─ 📝 Portal corporativo con panel de administración | Próximamente |
 | 🖥️ **Front:** —<br>⚙️ **Back:** PHP, Laravel<br>🗄️ **BBDD:** — | [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP)<br>└─ 📝 ERP y CRM para gestionar almacén y clientes | Próximamente |
-| 🖥️ **Front:** Thymeleaf<br>⚙️ **Back:** Java, Spring Boot, Maven<br>🗄️ **BBDD:** MySQL | [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java)<br>└─ 📝 Gestión de clientes, productos y pedidos | Próximamente |
+| 🖥️ **Front:** Thymeleaf<br>⚙️ **Back:** Java, Spring Boot, Maven<br>🗄️ **BBDD:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java)<br>└─ 📝 Gestión de clientes, productos y pedidos | Próximamente |
 | 🖥️ **Front:** Vite, PDF.js<br>⚙️ **Back:** Tauri 2, Rust<br>🗄️ **BBDD:** — | [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor)<br>└─ 📝 Lector y traductor de PDF con IA | [Windows&#160;x64:&#160;instalador&#160;(.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows&#160;x64:&#160;portátil&#160;(.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
 | 🖥️ **Front:** React, TypeScript<br>⚙️ **Back:** Node.js, TypeScript<br>🗄️ **BBDD:** — | [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets)<br>└─ 📝 Plataforma Opositests | Próximamente |
 | 🖥️ **Front:** React<br>⚙️ **Back:** Java, Spring Boot<br>🗄️ **BBDD:** — | [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca)<br>└─ 📝 Gestión de comunidades | Próximamente |
 | 🖥️ **Front:** Tailwind CSS<br>⚙️ **Back:** PHP<br>🗄️ **BBDD:** — | [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica)<br>└─ 📝 Web para clínicas | Próximamente |
-| 🖥️ **Front:** Bootstrap 5<br>⚙️ **Back:** PHP<br>🗄️ **BBDD:** MySQL | [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica)<br>└─ 📝 Web para centros de estética | Próximamente |
-| 🖥️ **Front:** Tailwind CSS<br>⚙️ **Back:** PHP<br>🗄️ **BBDD:** MySQL | [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio)<br>└─ 📝 Web para gimnasios | Próximamente |
+| 🖥️ **Front:** Bootstrap 5<br>⚙️ **Back:** PHP<br>🗄️ **BBDD:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica)<br>└─ 📝 Web para centros de estética | Próximamente |
+| 🖥️ **Front:** Tailwind CSS<br>⚙️ **Back:** PHP<br>🗄️ **BBDD:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio)<br>└─ 📝 Web para gimnasios | Próximamente |
 | 🖥️ **Front:** —<br>⚙️ **Back:** PHP<br>🗄️ **BBDD:** — | [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital)<br>└─ 📝 Plataforma NintaiDigital | Próximamente |
 
 ### ⚙️ DevOpsel · Infraestructura y DevOps
