@@ -12,10 +12,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ## 💼 Qué encontrarás aquí
 
-- **💻 Devsel:** desarrollo Full Stack.
-- **⚙️ DevOpsel:** infraestructura y DevOps.
-- **🛡️ DevSecOpsel:** seguridad en exploración.
-- **🧰 Sistemas y herramientas:** tecnologías utilizadas y en exploración.
+**💻 Devsel:** Full Stack · **⚙️ DevOpsel:** infraestructura y DevOps · **🛡️ DevSecOpsel:** seguridad en exploración · **🧰 Herramientas:** experiencia y exploración
 
 ---
 
