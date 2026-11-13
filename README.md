@@ -20,6 +20,20 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 
 ---
 
+## 🧰 Sistemas y herramientas que utilizo
+
+| Categoría | Tecnologías y herramientas |
+|-----------|----------------------------|
+| 🖥️ Sistemas | Ubuntu Server 24.04, Windows Server |
+| 📦 Contenedores | Docker, Portainer |
+| 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 8/9 |
+| 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server |
+| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA |
+| 🔀 Control de versiones | Git, GitHub, Gitea |
+| 🗄️ Bases de datos | phpMyAdmin, pgAdmin 4, MySQL Workbench, PostgreSQL |
+
+---
+
 ## 💻 Devsel · Desarrollo Full Stack
 
 Proyectos de aplicaciones web y de escritorio.
@@ -40,7 +54,6 @@ Proyectos de aplicaciones web y de escritorio.
 | 🖥️ **Front:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br>⚙️ **Back:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)<br>🗄️ **BBDD:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio)<br>└─ 📝 Web para gimnasios | Próximamente |
 | 🖥️ **Front:** —<br>⚙️ **Back:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)<br>🗄️ **BBDD:** — | [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital)<br>└─ 📝 Plataforma NintaiDigital | Próximamente |
 
-
 ---
 
 ## ⚙️ DevOpsel · Infraestructura y DevOps
@@ -52,19 +65,6 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
 | ⚙️ **Automatización:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)<br>📦 **Orquestación:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
-
-### 🧰 Sistemas, hardware y herramientas
-
-| Categoría | Tecnologías y herramientas |
-|-----------|----------------------------|
-| 🖥️ Sistemas | Ubuntu Server 24.04, Windows Server |
-| 📦 Contenedores | Docker, Portainer |
-| 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 8/9 |
-| 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server |
-| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA |
-| 🔀 Control de versiones | Git, GitHub, Gitea |
-| 🗄️ Bases de datos | phpMyAdmin, pgAdmin 4, MySQL Workbench, PostgreSQL |
-
 
 ---
 
