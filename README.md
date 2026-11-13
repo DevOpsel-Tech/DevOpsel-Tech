@@ -56,7 +56,7 @@ Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y pro
 | PHP, Laravel | [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP)<br>└─ 📝 ERP y CRM para gestionar almacén y clientes | — |
 | Java, Spring Boot, Maven | [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java)<br>└─ 📝 Gestión de clientes, productos y pedidos | — |
 | Tauri 2, Rust, Vite, PDF.js | [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor)<br>└─ 📝 Lector y traductor de PDF con IA | [Windows&#160;x64:&#160;instalador&#160;(.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows&#160;x64:&#160;portátil&#160;(.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
-| TypeScript, Node.js, React | [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets)<br>└─ 📝 Plataforma de oposiciones | — |
+| TypeScript, Node.js, React | [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets)<br>└─ 📝 Plataforma Opositests | — |
 | Java, Spring Boot, React | [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca)<br>└─ 📝 Gestión de comunidades | — |
 | PHP, Tailwind CSS | [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica)<br>└─ 📝 Web para clínicas | — |
 | PHP, Tailwind CSS | [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica)<br>└─ 📝 Web para centros de estética | — |
