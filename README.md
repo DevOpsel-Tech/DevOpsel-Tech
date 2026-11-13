@@ -23,7 +23,7 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 
 ---
 
-## 💻 Devsel · Desarrollo Full Stack
+## 💻 Devsel · Desarrollo Full Stack "en desarrollo"
 
 Proyectos de aplicaciones web y de escritorio.
 
