@@ -8,9 +8,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-### 💻 Devsel · Desarrollo
-
-#### 🚀 Proyectos de desarrollo
+### 💻 Devsel · Desarrollo Full Stack
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
