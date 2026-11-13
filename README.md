@@ -10,7 +10,7 @@
 
 Soy desarrollador Full Stack con formación dual en DAW y ASIR. Combino el desarrollo de aplicaciones con la administración de sistemas e infraestructura para entender el recorrido desde el código hasta el despliegue.
 
-He trabajado en sistemas de gestión, plataformas multijugador y herramientas de productividad, y gestiono infraestructura propia. Busco oportunidades en desarrollo, DevOps o administración de sistemas para seguir creciendo profesionalmente.
+He trabajado en sistemas de gestión, plataformas multijugador y herramientas de productividad, y gestiono infraestructura propia. Busco oportunidades como desarrollador Full Stack o en DevOps, y me interesa seguir creciendo hacia DevSecOps al finalizar ASIR.
 
 ## 💼 Qué encontrarás aquí
 
