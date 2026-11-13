@@ -3,12 +3,7 @@
 🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
 
-## Descargas - Traductor PDF
-
-**«Versiones de prueba»**
-
-| Plataforma | Descarga |
-|------------|----------|
+---------|----------|
 | Windows x64: instalador (.exe) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe) |
 | Windows x64: portátil (.zip) | [Descargar](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
 | Windows sin firma digital | |
