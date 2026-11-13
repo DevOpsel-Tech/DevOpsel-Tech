@@ -22,16 +22,17 @@ He trabajado en sistemas de gestión, plataformas multijugador y herramientas de
 
 ## 🧰 Sistemas y herramientas que utilizo
 
-| Categoría | Tecnologías y herramientas |
-|-----------|----------------------------|
-| 🖥️ Sistemas | Ubuntu Server LTS, Windows Server 2022 |
-| 📦 Contenedores y orquestación | Docker, Portainer, K3s |
-| 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 |
-| 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server |
-| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA |
-| 🔀 Control de versiones | Git, GitHub, Gitea |
-| 🗄️ Bases de datos | MySQL, PostgreSQL |
-| 🛠️ Administración de bases de datos | phpMyAdmin, pgAdmin 4, MySQL Workbench |
+| Categoría | Tecnologías y herramientas | 🔎 En exploración |
+|-----------|----------------------------|-------------------|
+| 🖥️ Sistemas | Ubuntu Server LTS, Windows Server 2022  — |
+| 📦 Contenedores y orquestación | Docker, Portainer, K3s  — |
+| 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 9  — |
+| 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server  — |
+| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA  — |
+| 🔀 Control de versiones | Git, GitHub, Gitea  — |
+| 🗄️ Bases de datos | MySQL, PostgreSQL  — |
+| 🛠️ Administración de bases de datos | phpMyAdmin, pgAdmin 4, MySQL Workbench  — |
+| 🛡️ Seguridad | — | Kali Linux, Burp Suite<br>Seguridad de redes y hardening<br>SOC y monitorización, DevSecOps |
 
 ---
 
