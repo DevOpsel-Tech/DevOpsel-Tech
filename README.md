@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-### Desarrollo
+### 💻 Devsel · Desarrollo
 
 | ![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Backend](https://img.shields.io/badge/Backend-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![BBDD](https://img.shields.io/badge/Bases_de_Datos-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 |----------|---------|----------------|
@@ -18,18 +18,24 @@
 | | C#, .NET | |
 | | JWT, CORS, REST API, Middleware, HttpOnly, Prisma (ORM) | |
 
-### Infraestructura y DevOps
+### ⚙️ DevOpsel · Infraestructura y DevOps
 
 | ![DevOps](https://img.shields.io/badge/DevOps_%2F_Sistemas-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Herramientas](https://img.shields.io/badge/Herramientas-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 |-------------------|--------------|
 | Ubuntu Server 24.04, Windows Server | VS Code, Cursor, Eclipse, IntelliJ IDEA |
-| Docker, Portainer, Fortinet | Git, GitHub, Gitea |
+| Docker, Portainer | Git, GitHub, Gitea |
 | Dell PowerEdge T140/T340/T440/T640 | phpMyAdmin, pgAdmin 4, MySQL Workbench |
 | iDRAC 8/9, Proxmox VE, Proxmox Backup Server | PostgreSQL |
-| Kali Linux | |
 
-### En exploración
-DevSecOps, Seguridad de redes, Hardening de servidores, Kali Linux
+
+### 🛡️ DevSecOpsel · Seguridad
+
+| Área | Tecnologías y líneas de trabajo |
+|------|--------------------------------|
+| 🛡️ Seguridad defensiva | Seguridad de redes, Fortinet y hardening de servidores |
+| 🔍 Seguridad ofensiva | Kali Linux |
+| 📊 SOC y monitorización | Monitorización de seguridad, en exploración |
+| ⚙️ DevSecOps | Integración de seguridad en desarrollo e infraestructura, en exploración |
 
 ---
 
