@@ -45,7 +45,7 @@ Proyectos de aplicaciones web y de escritorio.
 
 ---
 
-## ⚙️ DevOpsel · Infraestructura y DevOps
+## ⚙️ DevOpsel · Infraestructura y DevOps "en creación"
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
