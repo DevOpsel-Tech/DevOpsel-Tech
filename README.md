@@ -4,6 +4,14 @@
 
 
 
+## 📖 Sobre mí
+
+Desarrollo aplicaciones web y proyectos personales, entre ellos sistemas de gestión, una plataforma multijugador y herramientas de productividad. También trabajo con mi propia infraestructura y sigo aprendiendo sobre sistemas, despliegue y seguridad.
+
+Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendido y seguir creciendo, con interés en explorar DevSecOps al completar ASIR.
+
+---
+
 ## 🧭 Mis áreas
 
 **💻 Devsel:** Full Stack · **⚙️ DevOpsel:** infraestructura · **🛡️ DevSecOpsel:** seguridad · **🧰 Herramientas**
