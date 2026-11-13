@@ -1,4 +1,4 @@
-﻿# Hola, soy José Luis (selu) 👋
+﻿# Hola, soy José Luis, aunque me conocen como selu 👋
 
 **💻 Desarrollo Full Stack · ⚙️ DevOps · 🛡️ Seguridad en exploración**
 
