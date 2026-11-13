@@ -55,7 +55,7 @@ Desarrollo aplicaciones web y sistemas de gestión para pequeñas empresas y pro
 | [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | Java, Spring Boot, React, Vite | Portal web corporativo con panel admin | — |
 | [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | PHP, Laravel | ERP para gestión empresarial | — |
 | [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | Java, Spring Boot, Maven | ERP en Java con Spring Boot | — |
-| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Tauri 2, Rust, Vite, PDF.js | Lector de PDF con traducción mediante IA | [Windows EXE](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[ZIP portable](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
+| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Tauri 2, Rust, Vite, PDF.js | Lector de PDF con traducción mediante IA | [Windows x64: instalador (.exe)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe)<br>[Windows x64: portátil (.zip)](https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip) |
 | [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | TypeScript, Node.js, React | Plataforma de oposiciones | — |
 | [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | Java, Spring Boot, React | Gestión de comunidades de propietarios | — |
 | [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | PHP, Tailwind CSS | Web para clínicas | — |
