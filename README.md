@@ -48,7 +48,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
-| ⚙️ **Automatización:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)<br>📦 **Orquestación:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
+| ⚙️ **Automatización:** Ansible<br>📦 **Orquestación:** Kubernetes, K3s | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
 
 ---
 
