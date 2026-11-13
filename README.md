@@ -26,19 +26,10 @@
 
 ### ⚙️ DevOpsel · Infraestructura y DevOps
 
-| ![DevOps](https://img.shields.io/badge/DevOps_%2F_Sistemas-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Herramientas](https://img.shields.io/badge/Herramientas-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-|-------------------|--------------|
-| Ubuntu Server 24.04, Windows Server | VS Code, Cursor, Eclipse, IntelliJ IDEA |
-| Docker, Portainer | Git, GitHub, Gitea |
-| Dell PowerEdge T140/T340/T440/T640 | phpMyAdmin, pgAdmin 4, MySQL Workbench |
-| iDRAC 8/9, Proxmox VE, Proxmox Backup Server | PostgreSQL |
-
-
-#### 🚀 Proyectos de infraestructura
-
-| Proyecto | Tecnología | Descripción |
-|----------|-----------|-------------|
-| [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3) | Ansible, Kubernetes, K3s | Infraestructura DevOps con Kubernetes |
+| 🛠️ Tecnologías y herramientas | 📁 Área o proyecto y descripción | 📥 Descargar / 🌐 Ver |
+|-------------------------------|----------------------------------|-------------------------|
+| 🖥️ **Sistemas:** Ubuntu Server 24.04, Windows Server<br>📦 **Contenedores:** Docker, Portainer<br>🖧 **Infraestructura:** Dell PowerEdge T140/T340/T440/T640, iDRAC 8/9, Proxmox VE, Proxmox Backup Server<br>🔧 **Herramientas:** VS Code, Cursor, Eclipse, IntelliJ IDEA, Git, GitHub, Gitea<br>🗄️ **BBDD:** phpMyAdmin, pgAdmin 4, MySQL Workbench, PostgreSQL | **Infraestructura y herramientas**<br>└─ 📝 Tecnologías utilizadas en sistemas y administración | — |
+| ⚙️ **Automatización:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)<br>📦 **Orquestación:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
 
 ### 🛡️ DevSecOpsel · Seguridad "en exploración"
 
