@@ -1,55 +1,6 @@
-﻿# Hola, soy José Luis (selu) 👋
+﻿# Hola, soy José Luis, aunque me conocen como selu 👋
 
-Bienvenido a mi perfil profesional en GitHub.
-
-🌐 **Página web:** (en construcción)
-💼 **Profesión:** Desarrollador Junior / Emprendedor
-🎯 **Objetivo:** Diseñar y desarrollar soluciones digitales de alto impacto en **web y software**
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-| Frontend | Backend | Bases de Datos | DevOps / Sistemas | Herramientas |
-|----------|---------|----------------|-------------------|--------------|
-| HTML5, CSS3, JavaScript | PHP, Java, C# | MySQL, MariaDB, PostgreSQL | Ubuntu Server 24.04, Windows Server | VS Code, Cursor, Eclipse |
-| Bootstrap, Tailwind CSS | Node.js, Express, Spring Boot | | Docker, Portainer, Fortinet | Git, GitHub, Gitea, phpMyAdmin |
-| React, TypeScript, Vite | Laravel | | Dell PowerEdge, iDRAC | PostgreSQL |
-
-### En exploración
-Ollama (IA Local), Docker, Portainer, Fortinet, GitHub
-
----
-
-## 💼 Qué desarrollo
-
-Actualmente trabajo en el desarrollo de aplicaciones web y sistemas de gestión orientados a pequeñas empresas y proyectos propios.
-
-- Desarrollo de páginas web con funcionalidades personalizadas
-- Creación de paneles de administración y sistemas internos
-- Desarrollo de ERPs y aplicaciones de gestión
-- Integración de bases de datos y backend para aplicaciones web
-
----
-
-## 🚀 Mis proyectos destacados
-
-| Proyecto | Tecnología | Descripción |
-|----------|-----------|-------------|
-| [Devsel-Trivia](https://github.com/DevOpsel-Tech/Devsel-Trivia) | TypeScript, Node.js, React, Prisma | Juego de trivia multijugador en tiempo real |
-| [Devsel-DevOpsel](https://github.com/DevOpsel-Tech/Devsel-DevOpsel) | Java, Spring Boot, React, Vite | Portal web corporativo con panel admin |
-| [Devsel-ERP](https://github.com/DevOpsel-Tech/Devsel-ERP) | PHP, Laravel | ERP para gestión empresarial |
-| [Devsel-ERP-Java](https://github.com/DevOpsel-Tech/Devsel-ERP-Java) | Java, Spring Boot, Maven | ERP en Java con Spring Boot |
-| [Devsel-Traductor](https://github.com/DevOpsel-Tech/Devsel-Traductor) | Node.js, Express, Tesseract.js | Traductor de PDF con OCR |
-| [Devsel-opositets](https://github.com/DevOpsel-Tech/Devsel-opositets) | TypeScript, Node.js, React | Plataforma de oposiciones |
-| [Devsel-Adm.Finca](https://github.com/DevOpsel-Tech/Devsel-Adm.Finca) | Java, Spring Boot, React | Gestión de comunidades de propietarios |
-| [Devsel-web-clinica](https://github.com/DevOpsel-Tech/Devsel-web-clinica) | PHP, Tailwind CSS | Web para clínicas |
-| [Devsel-web-estetica](https://github.com/DevOpsel-Tech/Devsel-web-estetica) | PHP, Tailwind CSS | Web para centros de estética |
-| [Devsel-web-gimnasio](https://github.com/DevOpsel-Tech/Devsel-web-gimnasio) | PHP, Tailwind, Vite | Web para gimnasios |
-| [Devsel-NintaiDigital](https://github.com/DevOpsel-Tech/Devsel-NintaiDigital) | PHP | Plataforma NintaiDigital |
-| [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3) | Ansible, Kubernetes | Infraestructura DevOps |
-
----
+🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
 
 ## Descargas - Traductor PDF
@@ -65,22 +16,76 @@ Version de prueba - Windows sin firma digital - macOS sin firma ni notarizacion 
 
 ---
 
-## ?? Sobre mí
+## 🧭 Mis áreas
 
-Estoy iniciándome en el mundo del desarrollo de software, con muchas ganas de seguir aprendiendo y participar en proyectos reales donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
+**💻 Devsel:** Full Stack · **⚙️ DevOpsel:** infraestructura · **🛡️ DevSecOpsel:** seguridad · **🧰 Herramientas**
 
-Actualmente he finalizado mi formación en DAW (Desarrollo de Aplicaciones Web) y continúo mis estudios en ASIR (Administración de Sistemas Informáticos en Red), ampliando mis conocimientos en sistemas, redes, servidores e infraestructura.
+---
 
-Mi objetivo es incorporarme a un equipo de desarrollo donde pueda aprender de profesionales con experiencia, colaborar en proyectos reales y aportar una visión complementaria gracias a mi formación tanto en desarrollo como en sistemas.
+## 💻 Devsel · Desarrollo Full Stack
 
-Estoy interesado en oportunidades dentro del sector tecnológico, especialmente en desarrollo web, aplicaciones empresariales y administración de sistemas, con preferencia por modalidades de trabajo remoto o híbrido.
+Proyectos de aplicaciones web y de escritorio.
+
+<table>
+<thead><tr><th width="33%">🛠️ Tecnologías</th><th width="33%">📁 Proyecto y descripción</th><th width="33%">📥 Descargar / 🌐 Ver</th></tr></thead>
+<tbody>
+<tr><td>🖥️ <strong>Front:</strong> React, TypeScript, Vite<br>⚙️ <strong>Back:</strong> Node.js, Express, TypeScript<br>🗄️ <strong>BBDD:</strong> PostgreSQL<br>🔧 <strong>ORM:</strong> Prisma</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Trivia">Devsel-Trivia</a><br>└─ 📝 Juego de preguntas con partidas individuales y multijugador en tiempo real</td><td>Próximamente</td></tr>
+<tr><td>🖥️ <strong>Front:</strong> Thymeleaf<br>⚙️ <strong>Back:</strong> Java, Spring Boot, Maven<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-ERP-Java">Devsel-ERP-Java</a><br>└─ 📝 Gestión de clientes, productos, pedidos y usuarios</td><td>Próximamente</td></tr>
+<tr><td>🖥️ <strong>Front:</strong> Vite, PDF.js<br>⚙️ <strong>Back:</strong> Tauri 2, Rust<br>🗄️ <strong>BBDD:</strong> SQLite</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor">Devsel-Traductor</a><br>└─ 📝 Lector y traductor de PDF con IA</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe">Windows&#160;x64:&#160;instalador&#160;(.exe)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip">Windows&#160;x64:&#160;portátil&#160;(.zip)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/android-prueba-0.1.0/TraductorPDF-Android-ARM64-prueba.apk">Android&#160;ARM64:&#160;instalador&#160;(.apk)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml">macOS:&#160;descargar&#160;desde&#160;Actions</a><br><small>Versión de prueba · Windows sin firma digital · macOS sin firma ni notarización · Android con firma de depuración</small></td></tr>
+<tr><td>🖥️ <strong>Front:</strong> Tailwind CSS<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-clinica">Devsel-web-clinica</a><br>└─ 📝 Web para clínicas</td><td>Próximamente</td></tr>
+<tr><td>🖥️ <strong>Front:</strong> Bootstrap 5<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-estetica">Devsel-web-estetica</a><br>└─ 📝 Web de servicios de estética con galería y formulario de contacto</td><td>Próximamente</td></tr>
+<tr><td>🖥️ <strong>Front:</strong> Tailwind CSS<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-gimnasio">Devsel-web-gimnasio</a><br>└─ 📝 Web de gimnasio con servicios, planes y testimonios</td><td>Próximamente</td></tr>
+</tbody>
+</table>
+
+---
+
+## ⚙️ DevOpsel · Infraestructura y DevOps
+
+Proyectos de despliegue, sistemas y administración de infraestructura.
+
+| 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
+|----------------|---------------------------|-------------------------|
+| ⚙️ **Automatización:** Ansible<br>📦 **Orquestación:** Kubernetes, K3s | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
+
+---
+
+## 🛡️ DevSecOpsel · Seguridad
+
+Aprendizaje en seguridad defensiva, ofensiva y monitorización.
+
+### 🔎 Áreas de interés
+
+| Área | Tecnologías y líneas de trabajo |
+|------|--------------------------------|
+| 🛡️ Seguridad defensiva | Seguridad de redes, Fortinet y hardening de servidores |
+| 🔍 Seguridad ofensiva | Fundamentos y prácticas iniciales |
+| 📊 SOC y monitorización | Monitorización de seguridad, en exploración |
+| ⚙️ DevSecOps | Integración de seguridad en desarrollo e infraestructura, en exploración |
+
+---
+
+## 🧰 Sistemas y herramientas con los que he trabajado
+
+| Categoría | Tecnologías y herramientas | 🔎 En exploración |
+|-----------|----------------------------|-------------------|
+| 🖥️ Sistemas | Ubuntu Server LTS, Windows Server 2022 | — |
+| 📦 Contenedores y orquestación | Docker, Portainer, K3s | — |
+| 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 | — |
+| 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server | — |
+| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA | — |
+| 🔀 Control de versiones | Git, GitHub, Gitea | — |
+| 🗄️ Gestores de bases de datos (SGBD) | MySQL, PostgreSQL | — |
+| 🛠️ Herramientas de administración de BBDD | phpMyAdmin, pgAdmin 4, MySQL Workbench | — |
+| 🛡️ Seguridad | — | Kali Linux, Burp Suite |
+
+---
 
 ## 📧 Contacto
 
 - Email: [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
-- GitHub: [DevOpsel-Tech](https://github.com/DevOpsel-Tech)
+- LinkedIn: [José Luis Molano Navarro](https://www.linkedin.com/in/josé-luis-molano-navarro-580960283)
 
 ---
 
 *Desarrollado con ❤️ por José Luis*
-
