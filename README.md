@@ -27,7 +27,11 @@ Proyectos de aplicaciones web y de escritorio.
 <tbody>
 <tr><td>🖥️ <strong>Front:</strong> React, TypeScript, Vite<br>⚙️ <strong>Back:</strong> Node.js, Express, TypeScript<br>🗄️ <strong>BBDD:</strong> PostgreSQL<br>🔧 <strong>ORM:</strong> Prisma</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Trivia">Devsel-Trivia</a><br>└─ 📝 Juego de preguntas con partidas individuales y multijugador en tiempo real</td><td><a href="https://trivia-app-frontend-self.vercel.app/">Ver aplicación</a></td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Thymeleaf<br>⚙️ <strong>Back:</strong> Java, Spring Boot, Maven<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-ERP-Java">Devsel-ERP-Java</a><br>└─ 📝 Gestión de clientes, productos, pedidos y usuarios</td><td>Próximamente</td></tr>
+<<<<<<< HEAD
 <tr><td>🖥️ <strong>Front:</strong> Vite, PDF.js<br>⚙️ <strong>Back:</strong> Tauri 2, Rust<br>🗄️ <strong>BBDD:</strong> SQLite</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor">Devsel-Traductor</a><br>└─ 📝 Lector y traductor de PDF con IA. Requiere una clave de API y PDF con texto seleccionable; no incluye OCR.</td><td><strong>«Versiones de prueba»</strong><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe">Windows&#160;x64:&#160;instalador&#160;(.exe)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip">Windows&#160;x64:&#160;portátil&#160;(.zip)</a><br><small>Windows sin firma digital</small><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/android-prueba-b40cef6/TraductorPDF-Android-ARM64-prueba.apk">Android&#160;ARM64:&#160;instalador&#160;(.apk)</a><br><small>Android con firma de depuración</small><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/releases/download/macos-prueba-0.1.0/TraductorPDF-macOS-Apple-silicon-prueba.zip">macOS Apple silicon: descargar ZIP</a><br><small>macOS sin firma ni notarización</small></td></tr>
+=======
+<tr><td>🖥️ <strong>Front:</strong> Vite, PDF.js<br>⚙️ <strong>Back:</strong> Tauri 2, Rust<br>🗄️ <strong>BBDD:</strong> SQLite</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor">Devsel-Traductor</a><br>└─ 📝 Lector y traductor de PDF con IA</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-setup.exe">Windows&#160;x64:&#160;instalador&#160;(.exe)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/raw/refs/heads/main/downloads/TraductorPDF-Windows-x64-portable.zip">Windows&#160;x64:&#160;portátil&#160;(.zip)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/runs/43574397935/artifacts/14106435296">Android&#160;ARM64:&#160;instalador&#160;(.apk)</a><br><a href="https://github.com/DevOpsel-Tech/Devsel-Traductor/actions/workflows/build.yml">macOS:&#160;descargar&#160;desde&#160;Actions</a><br><small>Versión de prueba · Windows sin firma digital · macOS sin firma ni notarización · Android con firma de depuración</small></td></tr>
+>>>>>>> e18636a (Añadir certificado de hacking en DevSecOpsel y perfil GitHub en README)
 <tr><td>🖥️ <strong>Front:</strong> Tailwind CSS<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-clinica">Devsel-web-clinica</a><br>└─ 📝 Web para clínicas</td><td>Próximamente</td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Bootstrap 5<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-estetica">Devsel-web-estetica</a><br>└─ 📝 Web de servicios de estética con galería y formulario de contacto</td><td>Próximamente</td></tr>
 <tr><td>🖥️ <strong>Front:</strong> Tailwind CSS<br>⚙️ <strong>Back:</strong> PHP<br>🗄️ <strong>BBDD:</strong> MySQL</td><td><a href="https://github.com/DevOpsel-Tech/Devsel-web-gimnasio">Devsel-web-gimnasio</a><br>└─ 📝 Web de gimnasio con servicios, planes y testimonios</td><td>Próximamente</td></tr>
@@ -59,6 +63,12 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 | 📊 SOC y monitorización | Monitorización de seguridad, en exploración |
 | ⚙️ DevSecOps | Integración de seguridad en desarrollo e infraestructura, en exploración |
 
+### 🏅 Certificado de hacking
+
+<p>
+  <img src="images/hacking-cert.png" height="80" alt="Certificado de hacking">
+</p>
+
 ---
 
 ## 🧰 Sistemas y herramientas con los que he trabajado
@@ -81,6 +91,27 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
 - Email: [jlmn85@outlook.es](mailto:jlmn85@outlook.es)
 - LinkedIn: [José Luis Molano Navarro](https://www.linkedin.com/in/josé-luis-molano-navarro-580960283)
+
+---
+
+---
+## 🔗 Perfil de GitHub
+
+<details>
+<summary>Ver mi perfil de GitHub</summary>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DevOpsel--Tech-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/DevOpsel-Tech)
+
+### 🏅 Insignias AWS (cursos, no certificación final)
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?logo=amazonaws&logoColor=white&style=flat-square" height="20" alt="AWS Cloud Practitioner Essentials">
+  <img src="https://img.shields.io/badge/AWS-Skill%20Builder-FF9900?logo=amazonaws&logoColor=white&style=flat-square" height="20" alt="AWS Skill Builder">
+</p>
+
+<small>Reemplaza estas insignias por las del curso que vayas obteniendo.</small>
+
+</details>
 
 ---
 
