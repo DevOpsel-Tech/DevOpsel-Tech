@@ -90,7 +90,8 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
     <td valign="top">
       <strong>🎯 En proyecto</strong><br><br>
       OSCP<br>
-      BTL1
+      BTL1<br>
+      AWS Certified Security – Specialty
     </td>
   </tr>
 </table>
