@@ -40,6 +40,9 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
 | ⚙️ **Automatización:** Ansible<br>📦 **Orquestación:** Kubernetes, K3s | [DevOpsel-Ansible-k3](https://github.com/DevOpsel-Tech/DevOpsel-Ansible-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
+| ⚙️ **Automatización:** Ansible<br>☸️ **Orquestación:** Kubernetes (K8s) | [DevOpsel-Ansible-k8s](https://github.com/DevOpsel-Tech/DevOpsel-Ansible-k8s)<br>└─ 📝 Automatización de Kubernetes con Ansible | [Ver repositorio](https://github.com/DevOpsel-Tech/DevOpsel-Ansible-k8s) |
+| ⚙️ **Automatización:** Ansible<br>🐳 **Contenedores:** Docker | [DevOpsel-Ansible-Docker](https://github.com/DevOpsel-Tech/DevOpsel-Ansible-Docker)<br>└─ 📝 Automatización de Docker con Ansible | [Ver repositorio](https://github.com/DevOpsel-Tech/DevOpsel-Ansible-Docker) |
+| 🚀 **Despliegue:** Deploy | [DevOpsel-Deploy](https://github.com/DevOpsel-Tech/DevOpsel-Deploy)<br>└─ 📝 Proyecto de despliegue | [Ver repositorio](https://github.com/DevOpsel-Tech/DevOpsel-Deploy) |
 
 ### 🏅 AWS Academy · Cloud Foundations
 
