@@ -48,9 +48,9 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 <p>
   <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations - Training Badge">
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/aws-cloud-foundations-certificate.png" height="110" alt="Certificate of Completion AWS Academy Cloud Foundations">
 </p>
+
+[📄 Ver certificado AWS Academy](images/Captura%20de%20pantalla%202026-11-16%20175722.png)
 
 ---
 
