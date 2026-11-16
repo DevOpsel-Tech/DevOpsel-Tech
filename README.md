@@ -46,11 +46,22 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ### 🏅 AWS Academy · Cloud Foundations
 
-<p>
-  <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations - Training Badge">
-  &nbsp;&nbsp;&nbsp;
-  <img src="images/Captura de pantalla 2026-11-16 175722.png" height="110" alt="Certificado AWS Academy Cloud Foundations">
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations - Training Badge">
+        &nbsp;&nbsp;&nbsp;
+        <img src="images/Captura de pantalla 2026-11-16 175722.png" height="110" alt="Certificado AWS Academy Cloud Foundations">
+      </p>
+    </td>
+    <td valign="top">
+      <strong>📚 Cursando</strong><br><br>
+      AWS Academy Lab Project - Microservices and CI/CD Pipeline Builder<br>
+      AWS Academy Cloud Operations
+    </td>
+  </tr>
+</table>
 
 ---
 
