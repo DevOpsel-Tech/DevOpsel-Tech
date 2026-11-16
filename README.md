@@ -39,7 +39,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 | 🛠️ Tecnologías | 📁 Proyecto y descripción | 📥 Descargar / 🌐 Ver |
 |----------------|---------------------------|-------------------------|
-| ⚙️ **Automatización:** Ansible<br>📦 **Orquestación:** Kubernetes, K3s | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
+| ⚙️ **Automatización:** Ansible<br>📦 **Orquestación:** Kubernetes, K3s | [Ansible-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
 
 ### 🏅 AWS Academy · Cloud Foundations
 
