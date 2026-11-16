@@ -75,7 +75,6 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 | 🛡️ Seguridad defensiva | Seguridad de redes, Fortinet y hardening de servidores |
 | 🔍 Seguridad ofensiva | Fundamentos y prácticas iniciales |
 | 📊 SOC y monitorización | Monitorización de seguridad, en exploración |
-| ⚙️ DevSecOps | Integración de seguridad en desarrollo e infraestructura, en exploración |
 
 ### 🏅 Certificado de hacking
 
