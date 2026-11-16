@@ -80,9 +80,20 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
 ### 🏅 Certificado de hacking
 
-<p>
-  <img src="images/hacking-cert.png" height="80" alt="Certificado de hacking">
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        <img src="images/hacking-cert.png" height="80" alt="Certificado de hacking">
+      </p>
+    </td>
+    <td valign="top">
+      <strong>🎯 En proyecto</strong><br><br>
+      CompTIA Security+<br>
+      CEH (Certified Ethical Hacker)
+    </td>
+  </tr>
+</table>
 
 ---
 
