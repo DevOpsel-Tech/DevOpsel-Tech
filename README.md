@@ -44,21 +44,15 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 |----------------|---------------------------|-------------------------|
 | ⚙️ **Automatización:** Ansible<br>📦 **Orquestación:** Kubernetes, K3s | [DevOpsel-opositests-k3](https://github.com/DevOpsel-Tech/DevOpsel-opositests-k3)<br>└─ 📝 Infraestructura DevOps con Kubernetes | Próximamente |
 
-## 🔗 Perfil de GitHub
-
-<details>
-<summary>Ver mi perfil de GitHub</summary>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DevOpsel--Tech-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/DevOpsel-Tech)
-
-### 🏅 Insignias AWS (cursos, no certificación final)
+### 🏅 AWS Academy · Cloud Foundations
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?logo=amazonaws&logoColor=white&style=flat-square" height="20" alt="AWS Cloud Practitioner Essentials">
-  <img src="https://img.shields.io/badge/AWS-Skill%20Builder-FF9900?logo=amazonaws&logoColor=white&style=flat-square" height="20" alt="AWS Skill Builder">
+  <img src="images/aws-cloud-foundations-trained.png" height="100" alt="AWS Academy Cloud Foundations Trained">
 </p>
 
-</details>
+<p>
+  <img src="images/aws-cloud-foundations-certificate.jpg" height="180" alt="Certificate of Completion AWS Academy Cloud Foundations">
+</p>
 
 ---
 
