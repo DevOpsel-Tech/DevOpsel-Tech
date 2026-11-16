@@ -90,7 +90,7 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
     <td valign="top">
       <strong>🎯 En proyecto</strong><br><br>
       CompTIA Security+<br>
-      CEH (Certified Ethical Hacker)
+      AWS Security Specialty / AZ-500
     </td>
   </tr>
 </table>
