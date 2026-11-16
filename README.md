@@ -105,7 +105,7 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 | 📦 Contenedores y orquestación | Docker, Portainer, K3s | — |
 | 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 | — |
 | 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server | — |
-| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA | — |
+| 🔧 Editores e IDE | VS Code, Cursor, Eclipse, IntelliJ IDEA, Android Studio | — |
 | 🔀 Control de versiones | Git, GitHub, Gitea | — |
 | 🗄️ Gestores de bases de datos (SGBD) | MySQL, PostgreSQL | — |
 | 🛠️ Herramientas de administración de BBDD | phpMyAdmin, pgAdmin 4, MySQL Workbench | — |
