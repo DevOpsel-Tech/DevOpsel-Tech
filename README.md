@@ -89,8 +89,8 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
     </td>
     <td valign="top">
       <strong>🎯 En proyecto</strong><br><br>
-      CompTIA Security+<br>
-      AWS Security Specialty / AZ-500
+      OSCP<br>
+      BTL1
     </td>
   </tr>
 </table>
