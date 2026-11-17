@@ -99,20 +99,30 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
 ---
 
-## 🧰 Sistemas y herramientas con los que he trabajado
+## 🖥️ SysOps · Sistemas e infraestructura
 
-| Categoría | Tecnologías y herramientas | 🔎 En exploración |
-|-----------|----------------------------|-------------------|
-| 🖥️ Sistemas | Ubuntu Server LTS, Windows Server 2022 | — |
-| 📦 Contenedores y orquestación | Docker, Portainer, K3s | Kubernetes (K8s) |
-| ⚙️ Automatización y despliegue | Ansible | Semaphore, Argo CD |
-| 🖧 Servidores | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 | — |
-| 💾 Virtualización y copias | Proxmox VE, Proxmox Backup Server | — |
-| 🔧 Editores e IDE | VS Code, Cursor, Eclipse | IntelliJ IDEA, Android Studio |
-| 🔀 Control de versiones | Git, GitHub, Gitea | — |
-| 🗄️ Gestores de bases de datos (SGBD) | MySQL, PostgreSQL | — |
-| 🛠️ Herramientas de administración de BBDD | phpMyAdmin, pgAdmin 4, MySQL Workbench | — |
-| 🛡️ Seguridad | — | Kali Linux, Burp Suite |
+Administración de sistemas, servidores, virtualización, mantenimiento y copias de seguridad.
+
+| Área | Sistemas y tecnologías |
+|------|------------------------|
+| 🖥️ **Sistemas operativos** | Ubuntu Server LTS, Windows Server 2022 |
+| 🖧 **Servidores y gestión remota** | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 |
+| 💾 **Virtualización y copias** | Proxmox VE, Proxmox Backup Server |
+| 🗄️ **Administración de bases de datos** | MySQL, PostgreSQL, phpMyAdmin, pgAdmin 4, MySQL Workbench |
+
+---
+
+## 🧰 Herramientas y entorno de trabajo
+
+Herramientas transversales de desarrollo y operación, separadas de la administración de infraestructura.
+
+| Categoría | Herramientas utilizadas | 🔎 En exploración |
+|-----------|-------------------------|-------------------|
+| 🔧 **Editores e IDE** | VS Code, Cursor, Eclipse | IntelliJ IDEA, Android Studio |
+| 🔀 **Control de versiones** | Git, GitHub, Gitea | — |
+| 📦 **Contenedores y orquestación** | Docker, Portainer, K3s | Kubernetes (K8s) |
+| ⚙️ **Automatización y despliegue** | Ansible | Semaphore, Argo CD |
+| 🛡️ **Herramientas de seguridad** | — | Kali Linux, Burp Suite |
 
 ---
 
