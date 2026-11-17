@@ -57,9 +57,9 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
       <img src="https://images.credly.com/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" height="110" alt="AWS Academy Graduate - Cloud Operations - Training Badge"><br><br>
       <img src="images/Captura de pantalla 2026-11-17 154939.png" height="110" alt="Certificado AWS Academy Cloud Operations">
     </td>
-    <td valign="top">
-      <strong>📚 Cursando</strong><br><br>
-      AWS Academy Lab Project - Microservices and CI/CD Pipeline Builder
+    <td align="center" valign="top">
+      <strong>Microservices and CI/CD Pipeline Builder</strong><br><br>
+      <img src="https://images.credly.com/images/6ff76b93-852c-4f9e-a73a-fc10424a1007/blob" height="110" alt="AWS Academy Graduate - Microservices and CI/CD Pipeline Builder - Training Badge">
     </td>
   </tr>
 </table>
