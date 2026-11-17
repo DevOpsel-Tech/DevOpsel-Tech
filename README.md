@@ -19,7 +19,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 ---
 
 <details>
-<summary align="center"><strong><img src="images/icons/code-2.svg" width="25" height="25" alt="Desarrollo"> Devsel · Desarrollo Full Stack</strong></summary>
+<summary><div align="center"><strong><img src="images/icons/code-2.svg" width="25" height="25" alt="Desarrollo"> Devsel · Desarrollo Full Stack</strong></div></summary>
 
 Proyectos de aplicaciones web y de escritorio.
 
@@ -37,7 +37,7 @@ Proyectos de aplicaciones web y de escritorio.
 ---
 
 <details>
-<summary align="center"><strong><img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Automatización y despliegue</strong></summary>
+<summary><div align="center"><strong><img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Automatización y despliegue</strong></div></summary>
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -66,7 +66,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 ---
 
 <details>
-<summary align="center"><strong><img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · Seguridad de software y sistemas</strong></summary>
+<summary><div align="center"><strong><img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · Seguridad de software y sistemas</strong></div></summary>
 
 **🔎 En exploración** · DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
 
@@ -99,7 +99,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 ---
 
 <details>
-<summary align="center"><strong><img src="images/icons/brain-circuit.svg" width="25" height="25" alt="Inteligencia artificial"> IA · Agentes y automatización inteligente</strong></summary>
+<summary><div align="center"><strong><img src="images/icons/brain-circuit.svg" width="25" height="25" alt="Inteligencia artificial"> IA · Agentes y automatización inteligente</strong></div></summary>
 
 **📚 Cursando en ASIR como asignatura optativa**
 
@@ -110,7 +110,7 @@ Formación en inteligencia artificial y automatización, con interés en agentes
 ---
 
 <details>
-<summary align="center"><strong><img src="images/icons/server.svg" width="25" height="25" alt="Sistemas"> SysOps · Sistemas e infraestructura</strong></summary>
+<summary><div align="center"><strong><img src="images/icons/server.svg" width="25" height="25" alt="Sistemas"> SysOps · Sistemas e infraestructura</strong></div></summary>
 
 Administración de sistemas, servidores, virtualización, mantenimiento y copias de seguridad.
 
@@ -145,7 +145,7 @@ Administración de sistemas, servidores, virtualización, mantenimiento y copias
 ---
 
 <details>
-<summary align="center"><strong><img src="images/icons/wrench.svg" width="25" height="25" alt="Herramientas"> Herramientas y entorno de trabajo</strong></summary>
+<summary><div align="center"><strong><img src="images/icons/wrench.svg" width="25" height="25" alt="Herramientas"> Herramientas y entorno de trabajo</strong></div></summary>
 
 Herramientas transversales de desarrollo y operación, separadas de la administración de infraestructura.
 
