@@ -18,7 +18,8 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-## <img src="images/icons/code-2.svg" width="25" height="25" alt="Desarrollo"> Devsel · Desarrollo Full Stack
+<details>
+<summary><strong><img src="images/icons/code-2.svg" width="25" height="25" alt="Desarrollo"> Devsel · Desarrollo Full Stack</strong></summary>
 
 Proyectos de aplicaciones web y de escritorio.
 
@@ -31,9 +32,12 @@ Proyectos de aplicaciones web y de escritorio.
 </tbody>
 </table>
 
+</details>
+
 ---
 
-## <img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Automatización y despliegue
+<details>
+<summary><strong><img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Automatización y despliegue</strong></summary>
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -57,9 +61,12 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 <p align="center"><a href="https://www.credly.com/users/jose-luis-molano-navarro">🔗 Ver mis insignias verificables en Credly</a></p>
 
+</details>
+
 ---
 
-## <img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · Seguridad de software y sistemas
+<details>
+<summary><strong><img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · Seguridad de software y sistemas</strong></summary>
 
 **🔎 En exploración** · DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
 
@@ -87,17 +94,23 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
   </tr>
 </table>
 
+</details>
+
 ---
 
-## <img src="images/icons/brain-circuit.svg" width="25" height="25" alt="Inteligencia artificial"> IA · Agentes y automatización inteligente
+<details>
+<summary><strong><img src="images/icons/brain-circuit.svg" width="25" height="25" alt="Inteligencia artificial"> IA · Agentes y automatización inteligente</strong></summary>
 
 **📚 Cursando en ASIR como asignatura optativa**
 
 Formación en inteligencia artificial y automatización, con interés en agentes de IA e integraciones de servicios.
 
+</details>
+
 ---
 
-## <img src="images/icons/server.svg" width="25" height="25" alt="Sistemas"> SysOps · Sistemas e infraestructura
+<details>
+<summary><strong><img src="images/icons/server.svg" width="25" height="25" alt="Sistemas"> SysOps · Sistemas e infraestructura</strong></summary>
 
 Administración de sistemas, servidores, virtualización, mantenimiento y copias de seguridad.
 
@@ -127,9 +140,12 @@ Administración de sistemas, servidores, virtualización, mantenimiento y copias
 
 <p align="center"><a href="https://www.credly.com/users/jose-luis-molano-navarro">🔗 Ver mis insignias verificables en Credly</a></p>
 
+</details>
+
 ---
 
-## <img src="images/icons/wrench.svg" width="25" height="25" alt="Herramientas"> Herramientas y entorno de trabajo
+<details>
+<summary><strong><img src="images/icons/wrench.svg" width="25" height="25" alt="Herramientas"> Herramientas y entorno de trabajo</strong></summary>
 
 Herramientas transversales de desarrollo y operación, separadas de la administración de infraestructura.
 
@@ -140,6 +156,8 @@ Herramientas transversales de desarrollo y operación, separadas de la administr
 | 📦 **Contenedores y orquestación** | Docker, Portainer, K3s | Kubernetes (K8s) |
 | ⚙️ **Automatización y despliegue** | Ansible | Semaphore, Argo CD |
 | 🛡️ **Herramientas de seguridad** | — | Kali Linux, Burp Suite |
+
+</details>
 
 ---
 
