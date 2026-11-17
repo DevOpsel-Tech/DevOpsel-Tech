@@ -91,7 +91,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ## <img src="images/icons/brain-circuit.svg" width="25" height="25" alt="Inteligencia artificial"> IA · Agentes y automatización inteligente
 
-**📚 Cursando en ASIR**
+**📚 Cursando en ASIR como asignatura optativa**
 
 Formación en inteligencia artificial y automatización, con interés en agentes de IA e integraciones de servicios.
 
