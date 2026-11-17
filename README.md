@@ -59,7 +59,8 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
     </td>
     <td align="center" valign="top">
       <strong>Microservices and CI/CD Pipeline Builder</strong><br><br>
-      <img src="https://images.credly.com/images/6ff76b93-852c-4f9e-a73a-fc10424a1007/blob" height="110" alt="AWS Academy Graduate - Microservices and CI/CD Pipeline Builder - Training Badge">
+      <img src="https://images.credly.com/images/6ff76b93-852c-4f9e-a73a-fc10424a1007/blob" height="110" alt="AWS Academy Graduate - Microservices and CI/CD Pipeline Builder - Training Badge"><br><br>
+      <img src="images/Captura de pantalla 2026-11-17 162436.png" height="110" alt="Certificado AWS Academy Microservices and CI/CD Pipeline Builder">
     </td>
   </tr>
 </table>
