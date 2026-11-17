@@ -65,6 +65,8 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
   </tr>
 </table>
 
+<p align="center"><a href="https://www.credly.com/users/jose-luis-molano-navarro">🔗 Ver mis insignias verificables en Credly</a></p>
+
 ---
 
 ## 🛡️ DevSecOpsel · Seguridad
