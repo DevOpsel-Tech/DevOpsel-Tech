@@ -18,7 +18,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-## 💻 Devsel · Desarrollo Full Stack
+## <img src="images/icons/code-2.svg" width="25" height="25" alt="Desarrollo"> Devsel · Desarrollo Full Stack
 
 Proyectos de aplicaciones web y de escritorio.
 
@@ -33,7 +33,7 @@ Proyectos de aplicaciones web y de escritorio.
 
 ---
 
-## ⚙️ DevOpsel · Infraestructura y DevOps
+## <img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Infraestructura y DevOps
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -59,7 +59,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ---
 
-## 🛡️ DevSecOpsel · Seguridad
+## <img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · DevSecOps / SecOps
 
 Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
@@ -89,13 +89,13 @@ Aprendizaje en seguridad defensiva, ofensiva y monitorización.
 
 ---
 
-## 🖥️ SysOps · Sistemas e infraestructura
+## <img src="images/icons/server.svg" width="25" height="25" alt="Sistemas"> SysOps · Sistemas e infraestructura
 
 Administración de sistemas, servidores, virtualización, mantenimiento y copias de seguridad.
 
 | Área | Sistemas y tecnologías |
 |------|------------------------|
-| 🖥️ **Sistemas operativos** | Ubuntu Server LTS, Windows Server 2022 |
+| 🖥️ **Sistemas operativos** | Ubuntu Server LTS, Windows Server 2022 y Windows Server 2025 |
 | 🖧 **Servidores y gestión remota** | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 |
 | 💾 **Virtualización y copias** | Proxmox VE, Proxmox Backup Server |
 | 🗄️ **Administración de bases de datos** | MySQL, PostgreSQL, phpMyAdmin, pgAdmin 4, MySQL Workbench |
@@ -121,7 +121,7 @@ Administración de sistemas, servidores, virtualización, mantenimiento y copias
 
 ---
 
-## 🧰 Herramientas y entorno de trabajo
+## <img src="images/icons/wrench.svg" width="25" height="25" alt="Herramientas"> Herramientas y entorno de trabajo
 
 Herramientas transversales de desarrollo y operación, separadas de la administración de infraestructura.
 
