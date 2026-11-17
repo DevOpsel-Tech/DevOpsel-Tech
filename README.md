@@ -14,7 +14,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ## 🧭 Mis áreas
 
-**💻 Devsel:** Full Stack · **⚙️ DevOpsel:** infraestructura · **🛡️ DevSecOpsel:** seguridad · **🧰 Herramientas**
+**💻 Devsel:** Full Stack · **🖥️ SysOps:** sistemas · **⚙️ DevOpsel:** despliegues · **🛡️ DevSecOpsel:** seguridad · **🧠 IA:** en formación · **🧰 Herramientas**
 
 ---
 
@@ -61,7 +61,7 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ## <img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · Seguridad de software y sistemas
 
-Áreas de interés: DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
+**🔎 En exploración** · DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
 
 ### 🔎 Áreas de interés
 
@@ -86,6 +86,14 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
     </td>
   </tr>
 </table>
+
+---
+
+## <img src="images/icons/brain-circuit.svg" width="25" height="25" alt="Inteligencia artificial"> IA · Agentes y automatización inteligente
+
+**📚 Cursando en ASIR**
+
+Formación en inteligencia artificial y automatización, con interés en agentes de IA e integraciones de servicios.
 
 ---
 
