@@ -59,9 +59,9 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 ---
 
-## <img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · DevSecOps / SecOps
+## <img src="images/icons/shield-check.svg" width="25" height="25" alt="Seguridad"> DevSecOpsel · Seguridad de software y sistemas
 
-Aprendizaje en seguridad defensiva, ofensiva y monitorización.
+Áreas de interés: DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
 
 ### 🔎 Áreas de interés
 
