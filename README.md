@@ -33,7 +33,7 @@ Proyectos de aplicaciones web y de escritorio.
 
 ---
 
-## <img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Infraestructura y DevOps
+## <img src="images/icons/workflow.svg" width="25" height="25" alt="DevOps"> DevOpsel · Automatización y despliegue
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
