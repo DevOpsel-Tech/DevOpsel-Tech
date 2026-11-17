@@ -47,17 +47,15 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 
 <table>
   <tr>
-    <td valign="top">
-      <p>
-        <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations - Training Badge">
-        &nbsp;&nbsp;&nbsp;
-        <img src="images/Captura de pantalla 2026-11-16 175722.png" height="110" alt="Certificado AWS Academy Cloud Foundations">
-      </p>
-      <p>
-        <img src="https://images.credly.com/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" height="110" alt="AWS Academy Graduate - Cloud Operations - Training Badge">
-        &nbsp;&nbsp;&nbsp;
-        <img src="images/Captura de pantalla 2026-11-17 154939.png" height="110" alt="Certificado AWS Academy Cloud Operations">
-      </p>
+    <td align="center" valign="top">
+      <strong>Cloud Foundations</strong><br><br>
+      <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="110" alt="AWS Academy Graduate - Cloud Foundations - Training Badge"><br><br>
+      <img src="images/Captura de pantalla 2026-11-16 175722.png" height="110" alt="Certificado AWS Academy Cloud Foundations">
+    </td>
+    <td align="center" valign="top">
+      <strong>Cloud Operations</strong><br><br>
+      <img src="https://images.credly.com/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/blob" height="110" alt="AWS Academy Graduate - Cloud Operations - Training Badge"><br><br>
+      <img src="images/Captura de pantalla 2026-11-17 154939.png" height="110" alt="Certificado AWS Academy Cloud Operations">
     </td>
     <td valign="top">
       <strong>📚 Cursando</strong><br><br>
