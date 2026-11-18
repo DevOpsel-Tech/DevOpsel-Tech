@@ -35,7 +35,7 @@ Proyectos de aplicaciones web y de escritorio.
 ---
 
 <details>
-<summary><strong>&nbsp;&nbsp;&nbsp;<span>🔀 DevOpsel · Automatización y despliegue</span></strong></summary>
+<summary><strong>&nbsp;&nbsp;&nbsp;<span>♾️ DevOpsel · Automatización y despliegue</span></strong></summary>
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
@@ -143,7 +143,7 @@ Administración de sistemas, servidores, virtualización, mantenimiento y copias
 ---
 
 <details>
-<summary><strong>&nbsp;&nbsp;&nbsp;<span>🔧 Herramientas y entorno de trabajo</span></strong></summary>
+<summary><strong>&nbsp;&nbsp;&nbsp;<span>🧰 Herramientas y entorno de trabajo</span></strong></summary>
 
 Herramientas transversales de desarrollo y operación, separadas de la administración de infraestructura.
 
