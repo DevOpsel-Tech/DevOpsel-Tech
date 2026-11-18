@@ -115,7 +115,7 @@ Administración de sistemas, servidores, virtualización, mantenimiento y copias
 | Área | Sistemas y tecnologías |
 |------|------------------------|
 | 🖥️ **Sistemas operativos** | Ubuntu Server LTS, Windows Server 2022 y Windows Server 2025 |
-| <img src="images/icons/server.svg" width="18" height="18" alt="Servidores"> **Servidores y gestión remota** | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 |
+| <img src="images/icons/server-remote.svg" width="18" height="18" alt="Servidores"> **Servidores y gestión remota** | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 |
 | 💾 **Virtualización y copias** | Proxmox VE, Proxmox Backup Server |
 | 🗄️ **Administración de bases de datos** | MySQL, PostgreSQL, phpMyAdmin, pgAdmin 4, MySQL Workbench |
 
