@@ -1,5 +1,7 @@
 ﻿# Hola, soy José Luis, aunque me conocen como selu 👋
 
+🏢 **Fundador y administrador de [DevOpsel Technology](https://github.com/DevOpsel-Technology)**
+
 🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
 
