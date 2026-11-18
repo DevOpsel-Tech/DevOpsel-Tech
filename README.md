@@ -12,9 +12,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
-## 🧭 Mis áreas
-
-<small>Selecciona un apartado para desplegar su contenido.</small>
+## 🧭 Mis áreas <small><small><span style="font-weight: normal;">Selecciona un apartado para desplegar su contenido.</span></small></small>
 
 ---
 
