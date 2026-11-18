@@ -14,6 +14,15 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ---
 
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Ver |
+|---|---|---|
+| **DevSel Trivia** | Aplicación de preguntas con multijugador en tiempo real, desarrollada con React, TypeScript y Node.js. | [Ver aplicación](https://trivia-app-frontend-self.vercel.app/) |
+| **DevSel Traductor** | Aplicación de escritorio para leer y traducir documentos PDF mediante IA. | [Ver proyecto](https://github.com/DevOpsel-Tech/Devsel-Traductor) |
+
+---
+
 ## 🧭 Mis áreas <sub><small><small>· Selecciona un apartado para desplegar su contenido.</small></small></sub>
 
 ---
