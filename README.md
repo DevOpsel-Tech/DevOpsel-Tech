@@ -35,7 +35,7 @@ Proyectos de aplicaciones web y de escritorio.
 ---
 
 <details>
-<summary><strong>&nbsp;&nbsp;&nbsp;<span>♾️ DevOpsel · Automatización y despliegue</span></strong></summary>
+<summary><strong>&nbsp;&nbsp;&nbsp;<span>🔄 DevOpsel · Automatización y despliegue</span></strong></summary>
 
 Proyectos de despliegue, sistemas y administración de infraestructura.
 
