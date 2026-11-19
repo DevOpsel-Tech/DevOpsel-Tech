@@ -120,7 +120,8 @@ Administración de sistemas, servidores, virtualización, mantenimiento y copias
 |------|------------------------|
 | 🖥️ **Sistemas operativos** | Ubuntu Server LTS, Windows Server 2022 y Windows Server 2025 |
 | 🌐 **Servidores y gestión remota** | Dell PowerEdge T140/T340/T440/T640, iDRAC 9 |
-| 💾 **Virtualización y copias** | Proxmox VE, Proxmox Backup Server |
+| 💾 **Virtualización y copias** | Proxmox VE, Proxmox Backup Server, Proxmox Datacenter Manager (PDM) · 🔎 Investigando: AtlasPVE |
+| 🗄️ **Almacenamiento NAS** | QNAP TS-673A, TrueNAS |
 | 🗄️ **Administración de bases de datos** | MySQL, PostgreSQL, phpMyAdmin, pgAdmin 4, MySQL Workbench |
 
 ### 🏅 AWS Academy · Insignias y certificados
