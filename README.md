@@ -1,4 +1,4 @@
-m﻿# Hola, soy José Luis, aunque me conocen como selu 👋
+Hola, soy José Luis, aunque me conocen como selu 👋
 
 🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
