@@ -6,9 +6,9 @@ Hola, soy José Luis, aunque me conocen como selu 👋
 
 ## 📖 Sobre mí
 
-Desarrollo aplicaciones web y proyectos personales, entre ellos sistemas de gestión, una plataforma multijugador y herramientas de productividad. También trabajo con mi propia infraestructura y sigo aprendiendo sobre sistemas, despliegue y seguridad.
+Soy desarrollador de aplicaciones web, titulado en DAW y estudiante de ASIR. He trabajado en proyectos Full Stack con TypeScript, React, Node.js, Express y PostgreSQL, incluyendo APIs REST, autenticación y funcionalidades en tiempo real.
 
-Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendido y seguir creciendo, con interés en explorar DevSecOps al completar ASIR.
+Busco incorporarme a un equipo de desarrollo Full Stack, backend o DevOps para aportar lo aprendido y seguir creciendo. Actualmente centro mi formación en Java, Spring Boot, Spring Security, React, Next.js y SQL, junto con Docker y Kubernetes para despliegues. También me interesan la ciberseguridad y la IA como áreas de aprendizaje futuro.
 
 ---
 
