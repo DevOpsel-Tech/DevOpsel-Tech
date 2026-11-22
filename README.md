@@ -14,7 +14,7 @@ Busco una oportunidad en desarrollo Full Stack o DevOps donde aportar lo aprendi
 
 ## 🧭 Mis áreas
 
-Selecciona un apartado para desplegar su contenido.
+🟨 **¡Haz clic en cada apartado para desplegar su contenido!**
 
 ---
 
