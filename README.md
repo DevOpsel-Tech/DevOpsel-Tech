@@ -68,50 +68,6 @@ Proyectos de despliegue, sistemas y administración de infraestructura.
 ---
 
 <details>
-<summary><strong>&nbsp;&nbsp;&nbsp;<span>🛡️ DevSecOpsel · Seguridad de software y sistemas</span></strong></summary>
-
-**🔎 En exploración** · DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
-
-### 🔎 Áreas de interés
-
-| Área | Tecnologías y líneas de trabajo |
-|------|--------------------------------|
-| 🛡️ Seguridad defensiva | Seguridad de redes, Fortinet y hardening de servidores |
-| 🔍 Seguridad ofensiva | Fundamentos y prácticas iniciales |
-| 📊 SOC y monitorización | Monitorización de seguridad, en exploración |
-
-### 🏅 Certificado de hacking
-
-<table>
-  <tr>
-    <td valign="top">
-      <p>
-        <img src="images/hacking-cert.png" height="80" alt="Certificado de hacking">
-      </p>
-    </td>
-    <td valign="top">
-      <strong>🎯 En proyecto</strong><br><br>
-      AWS Certified Security – Specialty
-    </td>
-  </tr>
-</table>
-
-</details>
-
----
-
-<details>
-<summary><strong>&nbsp;&nbsp;&nbsp;<span>🧠 IA · Agentes y automatización inteligente</span></strong></summary>
-
-**📚 Cursando en ASIR como asignatura optativa**
-
-Formación en inteligencia artificial y automatización, con interés en agentes de IA e integraciones de servicios.
-
-</details>
-
----
-
-<details>
 <summary><strong>&nbsp;&nbsp;&nbsp;<span>🏗️ SysOps · Sistemas e infraestructura</span></strong></summary>
 
 Administración de sistemas, servidores, virtualización, mantenimiento y copias de seguridad.
@@ -159,6 +115,50 @@ Herramientas transversales de desarrollo y operación, separadas de la administr
 | 📦 **Contenedores y orquestación** | Docker, Portainer, K3s | Kubernetes (K8s) |
 | ⚙️ **Automatización y despliegue** | Ansible | Semaphore, Argo CD |
 | 🛡️ **Herramientas de seguridad** | — | Kali Linux, Burp Suite |
+
+</details>
+
+---
+
+<details>
+<summary><strong>&nbsp;&nbsp;&nbsp;<span>🛡️ DevSecOpsel · Seguridad de software y sistemas</span></strong></summary>
+
+**🔎 En exploración** · DevSecOps (seguridad en desarrollo y despliegues) y SecOps (protección y monitorización de sistemas).
+
+### 🔎 Áreas de interés
+
+| Área | Tecnologías y líneas de trabajo |
+|------|--------------------------------|
+| 🛡️ Seguridad defensiva | Seguridad de redes, Fortinet y hardening de servidores |
+| 🔍 Seguridad ofensiva | Fundamentos y prácticas iniciales |
+| 📊 SOC y monitorización | Monitorización de seguridad, en exploración |
+
+### 🏅 Certificado de hacking
+
+<table>
+  <tr>
+    <td valign="top">
+      <p>
+        <img src="images/hacking-cert.png" height="80" alt="Certificado de hacking">
+      </p>
+    </td>
+    <td valign="top">
+      <strong>🎯 En proyecto</strong><br><br>
+      AWS Certified Security – Specialty
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
+<details>
+<summary><strong>&nbsp;&nbsp;&nbsp;<span>🧠 IA · Agentes y automatización inteligente</span></strong></summary>
+
+**📚 Cursando en ASIR como asignatura optativa**
+
+Formación en inteligencia artificial y automatización, con interés en agentes de IA e integraciones de servicios.
 
 </details>
 
