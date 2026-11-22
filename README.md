@@ -1,6 +1,6 @@
 Hola, soy José Luis, aunque me conocen como selu 👋
 
-**Desarrollador Full Stack | React · TypeScript · Node.js | Especialización en Java, Spring Boot y Next.js | Interés en DevOps**
+**Desarrollador Full Stack | React · TypeScript · Node.js | Especialización en Java, Spring Boot y Next.js | En formación en DevOps**
 
 🎓 **Formación:** Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR, en curso).
 
