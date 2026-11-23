@@ -12,6 +12,14 @@ Soy desarrollador de aplicaciones web, titulado en DAW y estudiante de ASIR. He 
 
 Busco incorporarme a un equipo de desarrollo Full Stack, backend o DevOps para aportar lo aprendido y seguir creciendo. Actualmente centro mi formación en Java, Spring Boot, Spring Security, React, Next.js y SQL, junto con Docker y Kubernetes para despliegues. También me interesan la ciberseguridad y la IA como áreas de aprendizaje futuro.
 
+## 🌐 Entornos y Webs en Desarrollo
+
+* **DevOpsel Technology:** [devopsel.com](https://devopsel.com) — *Arquitectura Cloud, Sistemas y Desarrollo Web (en construcción)*
+* **CloudSel PaaS:** [cloudsel.cloud](https://cloudsel.cloud) — *Plataforma propia de despliegue de contenedores (en construcción)*
+
+> **🕒 Horario de disponibilidad (Self-Hosted):**  
+> Ambos entornos están alojados en infraestructura propia en fase de desarrollo y permanecen activos **todos los días de 09:00 a 15:00 (CET / hora de Madrid)**. Fuera de esa franja los servidores se apagan automáticamente por eficiencia energética.
+
 ---
 
 ## 🧭 Mis áreas
