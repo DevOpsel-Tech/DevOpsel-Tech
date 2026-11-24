@@ -14,9 +14,6 @@ Busco incorporarme a un equipo de desarrollo Full Stack, backend o DevOps para a
 
 ## 🌐 Entornos y Webs en Desarrollo
 
-* **DevOpsel Technology:** [devopsel.com](https://devopsel.com) — *Arquitectura Cloud, Sistemas y Desarrollo Web (en construcción)*
-* **CloudSel PaaS:** [cloudsel.cloud](https://cloudsel.cloud) — *Plataforma propia de despliegue de contenedores (en construcción)*
-
 > **🕒 Horario de disponibilidad (Self-Hosted):**  
 > Las versiones de demostración y los proyectos en desarrollo, alojados en infraestructura propia, están disponibles diariamente de **09:00 a 15:00 (hora de Madrid)** por motivos de eficiencia energética.
 
