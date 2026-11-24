@@ -18,7 +18,7 @@ Busco incorporarme a un equipo de desarrollo Full Stack, backend o DevOps para a
 * **CloudSel PaaS:** [cloudsel.cloud](https://cloudsel.cloud) — *Plataforma propia de despliegue de contenedores (en construcción)*
 
 > **🕒 Horario de disponibilidad (Self-Hosted):**  
-> Los proyectos y servicios web alojados en mi infraestructura propia permanecen disponibles **todos los días de 09:00 a 15:00 (hora de Madrid)**. Fuera de esa franja, los servidores se apagan automáticamente por eficiencia energética.
+> Las versiones de demostración y los proyectos en desarrollo, alojados en infraestructura propia, están disponibles diariamente de **09:00 a 15:00 (hora de Madrid)** por motivos de eficiencia energética.
 
 ---
 
