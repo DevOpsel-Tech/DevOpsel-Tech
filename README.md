@@ -12,6 +12,11 @@ Soy desarrollador de aplicaciones web, titulado en DAW y estudiante de ASIR. He 
 
 Busco incorporarme a un equipo de desarrollo Full Stack, backend o DevOps para aportar lo aprendido y seguir creciendo. Actualmente centro mi formación en Java, Spring Boot, Spring Security, React, Next.js y SQL, junto con Docker y Kubernetes para despliegues. También me interesan la ciberseguridad y la IA como áreas de aprendizaje futuro.
 
+<p>
+  <a href="https://github.com/DevOpsel-Technology"><img src="https://github.com/DevOpsel-Technology.png?size=80" width="36" height="36" alt="Logotipo de DevOpsel Technology"></a>
+  <a href="https://github.com/DevOpsel-Technology"><strong>DevOpsel Technology</strong></a> · Desarrollo, infraestructura y automatización.
+</p>
+
 ## 🌐 Entornos y Webs en Desarrollo
 
 > **🕒 Horario de disponibilidad (Self-Hosted):**  
